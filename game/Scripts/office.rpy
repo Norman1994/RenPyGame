@@ -84,7 +84,7 @@ label office_first:
 
     "Спустя пару часов ко мне зашла Юля"
 
-    show Yulia
+    show Yulia with dissolve
 
     yulia "Хей, подруга, как ты тут?"
 
@@ -114,10 +114,14 @@ label office_first:
 
     "От волнения закружилась голова. Мой ноги будто лишились подвижности."
 
+    stop music fadeout 1.0
+
     yulia "Интересно, чего он хочет?!"
 
     me "Что б я знала..."
 
     yulia "Ладно, я подожду тебя тут. Удачи, подруга!"
+
+    jump boss_office_first
 
     return

@@ -1,4 +1,4 @@
-2024-04-05 13:59:32 UTC
+2024-04-05 14:24:29 UTC
 Linux-5.15.0-71-generic-x86_64-with-glibc2.35
 Ren'Py 8.2.1.24030407
 
@@ -16,7 +16,7 @@ Backing up script files to '/home/dmitrii/.renpy/backups/RenPyGame':
 Dump and make backups took 0.02s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.02s
+Initial gc took 0.01s
 DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
@@ -27,9 +27,9 @@ Analyze screens took 0.01s
 Save screen analysis took 0.01s
 Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.01s
 Running _start took 0.00s
-Interface start took 0.09s
+Interface start took 0.10s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
