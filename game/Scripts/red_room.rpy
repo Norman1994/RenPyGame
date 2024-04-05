@@ -60,6 +60,7 @@ label red_room_first:
     raccoon "Кого это ты к нам привел, Сема? Это наша новая гостья? Хорошо, очень хорошо! Мы заждались!"
 
     hide Boss
+    with dissolve
 
     stop music
     
