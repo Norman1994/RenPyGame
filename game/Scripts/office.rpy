@@ -46,9 +46,9 @@ label office_first:
 
     boss "Кхе-кхе"
 
-    show evil at left with dissolve
+    show Tamara at left with dissolve
 
-    show boss at right with dissolve
+    show Boss at right with dissolve
 
     "В сердце болезненно кольнуло. Эдуард Семенович выглядел точно так, как в моих снах! Высокий, статный, уверенный, горячий..."
 
@@ -64,7 +64,7 @@ label office_first:
 
     evil "Я.. да... точно, я совсем забыла... Извините, я пойду работать!"
 
-    hide evil with dissolve
+    hide Tamara with dissolve
 
     boss "Глаша, вас не особо сильно доставали?"
 
@@ -74,7 +74,7 @@ label office_first:
 
     boss "Хорошо. Работайте!"
 
-    hide boss with dissolve
+    hide Boss with dissolve
 
     "Эх... Он такой прекрасный и такой неприступный. Такой загадочный и такой серьезный. Как же хочется узнать его поближе."
 
