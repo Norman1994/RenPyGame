@@ -1,0 +1,5 @@
+define boss = Character('Босс', color="#c8ffc8")
+define me = Character('Я', color="#c8ffc8")
+define raccoon = Character('Незнакомка', color="#c8ffc8")
+define yulia = Character('Юлечка', color="#FF69B4")
+define father = Character('Батя', color="#008000")
