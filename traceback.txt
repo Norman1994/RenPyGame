@@ -1,24 +1,38 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/Scripts/street.rpy", line 22, in script
-    glasha "Сейчас же только утро..."
-Exception: Sayer 'glasha' is not defined.
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/Scripts/variables.rpy", line 1, in execute_default
+    default is_talking = false
+  File "game/Scripts/variables.rpy", line 1, in <module>
+    default is_talking = false
+NameError: name 'false' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/Scripts/street.rpy", line 22, in script
-    glasha "Сейчас же только утро..."
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 2557, in execute
-    Say.execute(self)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 575, in execute
-    who = eval_who(self.who, self.who_fast)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 464, in eval_who
-    raise Exception("Sayer '%s' is not defined." % who)
-Exception: Sayer 'glasha' is not defined.
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\ast.py", line 823, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\python.py", line 1178, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\exports.py", line 4090, in execute_default_statement
+    i.execute_default(start)
+  File "game/Scripts/variables.rpy", line 1, in execute_default
+    default is_talking = false
+  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/Scripts/variables.rpy", line 1, in <module>
+    default is_talking = false
+NameError: name 'false' is not defined
 
-Linux-5.15.0-71-generic-x86_64-with-glibc2.35 x86_64
+Windows-10-10.0.19045 AMD64
 Ren'Py 8.2.1.24030407
 GlashaTest 1.0
-Fri Apr  5 14:01:14 2024
+Sun Apr  7 08:52:08 2024

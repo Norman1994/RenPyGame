@@ -1,0 +1,1 @@
+default is_talking = False

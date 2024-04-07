@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/boss_office.rpy", line 45: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-        me "Эдуард Се... Эдуард... Я... Я даже не знаю, что сказать...
+File "game/Scripts/office.rpy", line 163: expected statement.
+    is_talking = true
+               ^
+
+File "game/Scripts/office.rpy", line 166: expected statement.
+    is_talking = false
+               ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Fri Apr  5 17:24:16 2024
+Sun Apr  7 08:51:22 2024

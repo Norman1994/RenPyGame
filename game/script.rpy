@@ -1,5 +1,5 @@
 ﻿label start:
 
-    jump red_room_first
+    jump first_day
 
     return

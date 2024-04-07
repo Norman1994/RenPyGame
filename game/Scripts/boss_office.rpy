@@ -83,5 +83,7 @@ label boss_office_first:
     hide Boss with dissolve
 
     "Эх... А я так надеялась..."
+
+    jump office_second
     
     return
