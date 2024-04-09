@@ -1,38 +1,28 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "renpy/common/00start.rpy", line 193, in script
-    python:
-  File "renpy/common/00start.rpy", line 194, in <module>
-    renpy.execute_default_statement(True)
-  File "game/Scripts/variables.rpy", line 1, in execute_default
-    default is_talking = false
-  File "game/Scripts/variables.rpy", line 1, in <module>
-    default is_talking = false
-NameError: name 'false' is not defined
+  File "game/Scripts/office.rpy", line 350, in script
+    if talk_truth == True:
+  File "game/Scripts/office.rpy", line 350, in <module>
+    if talk_truth == True:
+NameError: name 'talk_truth' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "renpy/common/00start.rpy", line 193, in script
-    python:
-  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\ast.py", line 823, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\python.py", line 1178, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "renpy/common/00start.rpy", line 194, in <module>
-    renpy.execute_default_statement(True)
-  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\exports.py", line 4090, in execute_default_statement
-    i.execute_default(start)
-  File "game/Scripts/variables.rpy", line 1, in execute_default
-    default is_talking = false
-  File "C:\Users\User\Downloads\renpy-8.2.1-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+  File "game/Scripts/office.rpy", line 350, in script
+    if talk_truth == True:
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 1842, in execute
+    if renpy.python.py_eval(condition):
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1202, in py_eval_bytecode
     return eval(bytecode, globals, locals)
-  File "game/Scripts/variables.rpy", line 1, in <module>
-    default is_talking = false
-NameError: name 'false' is not defined
+  File "game/Scripts/office.rpy", line 350, in <module>
+    if talk_truth == True:
+NameError: name 'talk_truth' is not defined
 
-Windows-10-10.0.19045 AMD64
+Linux-5.15.0-71-generic-x86_64-with-glibc2.35 x86_64
 Ren'Py 8.2.1.24030407
 GlashaTest 1.0
-Sun Apr  7 08:52:08 2024
+Tue Apr  9 15:22:57 2024

@@ -311,4 +311,6 @@ label glasha_room_third_continue:
 
     "Отец, Эдуард Семенович, королева Енотов... Да что происходит?!"
 
+    jump office_second
+
     return

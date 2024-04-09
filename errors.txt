@@ -2,13 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/office.rpy", line 163: expected statement.
-    is_talking = true
-               ^
+The label office_second is defined twice, at File "game/Scripts/office.rpy", line 129:
+label office_second:
+and File "game/Scripts/office.rpy", line 199:
+label office_second:
 
-File "game/Scripts/office.rpy", line 166: expected statement.
-    is_talking = false
-               ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Sun Apr  7 08:51:22 2024
+Tue Apr  9 15:17:08 2024

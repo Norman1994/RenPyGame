@@ -84,6 +84,6 @@ label boss_office_first:
 
     "Эх... А я так надеялась..."
 
-    jump office_second
+    jump office_first_final
     
     return
