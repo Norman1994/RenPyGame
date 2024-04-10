@@ -7,6 +7,8 @@ image office = "images/Backgrounds/GlashaOffice.jpg"
 image boss_office = "images/Backgrounds/BossOffice.jpg"
 image yulia_room = "images/Backgrounds/YuliaRoom.jpg"
 image intermedia = "images/Backgrounds/StarSky.jpg"
+image book_store = "images/Backgrounds/BookStore.jpg"
+image night_city = "images/Backgrounds/NightCity.jpg"
 #Персонажи
 image Boss = "images/Characters/Boss.png"
 image Yulia = "images/Characters/Julia.png"
