@@ -24,6 +24,6 @@ label third_day:
 
     "День третий."
 
-    jump glasha_room_third
+    jump red_room_third
 
     return
