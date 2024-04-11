@@ -17,3 +17,13 @@ label second_day:
     jump glasha_room_third
 
     return
+
+label third_day:
+
+    scene intermedia
+
+    "День третий."
+
+    jump glasha_room_third
+
+    return

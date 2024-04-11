@@ -2,7 +2,7 @@ label red_room_first:
 
     play music "audio/music/RedRoomMusic.mp3"
 
-    scene red_room
+    scene red_room with dissolve
 
     "В своих беспокойных снах я постоянно вижу эту комнату..."
 
@@ -74,7 +74,7 @@ label red_room_second:
 
     play music "audio/music/RedRoomMusic.mp3"
 
-    scene red_room
+    scene red_room with dissolve
 
     "И вот я снова здесь..."
 
@@ -205,5 +205,15 @@ label red_room_second:
     "А где все? Неужели, сон заканчивается?!"
 
     jump second_day
+
+    return
+
+label red_room_third:
+
+    play music "audio/music/RedRoomMusic.mp3"
+
+    scene red_room with dissolve
+
+    "..."
 
     return
