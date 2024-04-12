@@ -314,3 +314,13 @@ label glasha_room_third_continue:
     jump office_second
 
     return
+
+label glasha_room_forth:
+
+    play music "audio/music/RoomMusic.mp3"
+
+    scene glasha_room
+
+    "Что? Как я оказалась дома?!"
+
+    return
