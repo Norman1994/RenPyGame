@@ -1,33 +1,23 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While loading <renpy.display.im.Image object ('images/Backgrounds/NightCity.jpg') at 0x7f405d434ac0>:
-  File "game/Scripts/night_city.rpy", line 5, in script
-    "Ночной город пах свежестью и душевной свободой. В ярких огнях автомобилей и неоновых огнях, отражающихся в лужах я видела спокойствие, которого мне так долго не хватало."
-  File "renpy/common/000window.rpy", line 122, in _window_auto_callback
-    _window_show(auto=True)
-  File "renpy/common/000window.rpy", line 70, in _window_show
-    renpy.with_statement(trans)
-OSError: Couldn't find file 'images/Backgrounds/NightCity.jpg'.
+While running game code:
+Exception: Could not find font 'TimesNewRoman.ttf'.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/Scripts/night_city.rpy", line 5, in script
-    "Ночной город пах свежестью и душевной свободой. В ярких огнях автомобилей и неоновых огнях, отражающихся в лужах я видела спокойствие, которого мне так долго не хватало."
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 2557, in execute
-    Say.execute(self)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 585, in execute
-    statement_name("say")
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 52, in statement_name
-    i(name)
-  File "renpy/common/000window.rpy", line 122, in _window_auto_callback
-    _window_show(auto=True)
-  File "renpy/common/000window.rpy", line 70, in _window_show
-    renpy.with_statement(trans)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/exports.py", line 1781, in with_statement
-    return renpy.game.interface.do_with(trans, paired, clear=clear)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/core.py", line 1548, in do_with
-    return self.interact(trans_pause=True,
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
+    python hide:
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 823, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1178, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in <module>
+    python hide:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 35, in _execute_python_hide
+    ui.interact()
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
   File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/core.py", line 2165, in interact
     repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
   File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/core.py", line 2818, in interact_core
@@ -40,10 +30,6 @@ Full traceback:
     surf = render(child, width, height, cst, cat)
   File "render.pyx", line 170, in renpy.display.render.render
   File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/transition.py", line 383, in render
-    bottom = render(self.old_widget, width, height, st, at)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 260, in renpy.display.render.render
   File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/layout.py", line 900, in render
     surf = render(child, width, height, cst, cat)
   File "render.pyx", line 170, in renpy.display.render.render
@@ -52,30 +38,45 @@ Full traceback:
     surf = render(child, width, height, cst, cat)
   File "render.pyx", line 170, in renpy.display.render.render
   File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/transform.py", line 957, in render
-    return RenderTransform(self).render(width, height, st, at)
-  File "accelerator.pyx", line 978, in renpy.display.accelerator.RenderTransform.render
-  File "accelerator.pyx", line 413, in renpy.display.accelerator.RenderTransform.render_child
-  File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/image.py", line 513, in render
-    return wrap_render(self.target, width, height, st, at)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/image.py", line 316, in wrap_render
-    rend = render(child, w, h, st, at)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/screen.py", line 754, in render
+    child = renpy.display.render.render(self.child, w, h, st, at)
   File "render.pyx", line 170, in renpy.display.render.render
   File "render.pyx", line 260, in renpy.display.render.render
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/im.py", line 626, in render
-    return cache.get(self, render=True)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/im.py", line 309, in get
-    surf = image.load()
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/im.py", line 761, in load
-    raise e
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/im.py", line 711, in load
-    filelike = renpy.loader.load(self.filename, directory="images")
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/loader.py", line 672, in load
-    raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 'images/Backgrounds/NightCity.jpg'.
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/layout.py", line 900, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/layout.py", line 1121, in render
+    surf = render(d, width - x, rh, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/behavior.py", line 968, in render
+    rv = super(Button, self).render(width, height, st, at)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/layout.py", line 1314, in render
+    xminimum = max(xminimum, size_groups[size_group].width(width, height, st, at))
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/layout.py", line 1251, in width
+    rend = renpy.display.render.render_for_size(i, width, height, st, at)
+  File "render.pyx", line 312, in renpy.display.render.render_for_size
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/behavior.py", line 968, in render
+    rv = super(Button, self).render(width, height, st, at)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/display/layout.py", line 1361, in render
+    surf = render(child,
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 260, in renpy.display.render.render
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/text/text.py", line 2276, in render
+    virtual_layout = Layout(self, width, height, renders, drawable_res=False, size_only=True)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/text/text.py", line 676, in __init__
+    glyphs = ts.glyphs(s, self)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/text/text.py", line 268, in glyphs
+    fo = font.get_font(self.font, self.size, self.bold, self.italic, 0, self.antialias, self.vertical, self.hinting, layout.oversample, self.shaper, self.instance, self.axis)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/text/font.py", line 745, in get_font
+    face = load_face(fn, shaper)
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/text/font.py", line 673, in load_face
+    raise Exception("Could not find font {0!r}.".format(orig_fn))
+Exception: Could not find font 'TimesNewRoman.ttf'.
 
 Linux-5.15.0-71-generic-x86_64-with-glibc2.35 x86_64
 Ren'Py 8.2.1.24030407
 GlashaTest 1.0
-Thu Apr 11 13:12:07 2024
+Tue Apr 16 17:19:47 2024
