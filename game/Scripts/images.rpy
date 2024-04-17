@@ -13,6 +13,7 @@ image night_kiss = "images/Backgrounds/NightKiss.jpg"
 image boss_room = "images/Backgrounds/BossRoom.jpg"
 image white_room = "images/Backgrounds/WhiteRoom.png"
 image crab_room = "images/Backgrounds/CrabRoom.png"
+image night_alley = "images/Backgrounds/NightAlley.png"
 #Персонажи
 image Boss = "images/Characters/Boss.png"
 image Yulia = "images/Characters/Julia.png"
