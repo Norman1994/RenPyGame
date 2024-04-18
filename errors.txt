@@ -2,11 +2,11 @@
 errors listed below, and try again.
 
 
-The label office_second is defined twice, at File "game/Scripts/office.rpy", line 129:
-label office_second:
-and File "game/Scripts/office.rpy", line 199:
-label office_second:
+The label yulia_saves is defined twice, at File "game/Scripts/night_alley.rpy", line 106:
+label yulia_saves:
+and File "game/Scripts/office.rpy", line 288:
+label yulia_saves:
 
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Tue Apr  9 15:17:08 2024
+Thu Apr 18 17:39:13 2024
