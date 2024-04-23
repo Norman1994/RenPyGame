@@ -9,3 +9,5 @@ define racoon_queen = Character('Королева Енотов', color="#1e8036"
 define reporter = Character('Посетитель книжного магазина', color="#f0d806")
 define crab_queen = Character('Королева крабов', color="#fa0000")
 define unknown_phone = Character('Незнакомец', color="#fa0000")
+define raccoon = Character('Енотик', color="#fa9600")
+define glasha = Character('Глаша', color="#7500fa")
