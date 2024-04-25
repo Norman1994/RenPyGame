@@ -2,11 +2,1923 @@
 errors listed below, and try again.
 
 
-The label yulia_saves is defined twice, at File "game/Scripts/night_alley.rpy", line 106:
-label yulia_saves:
-and File "game/Scripts/office.rpy", line 288:
-label yulia_saves:
+File "game/Scripts/book_store.rpy", line 9: Line with id book_store_bf3faa8a appears twice. The other line is game/Scripts/Prologue/book_store.rpy:9
 
+File "game/Scripts/book_store.rpy", line 11: Line with id book_store_630f0a60 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:11
+
+File "game/Scripts/book_store.rpy", line 13: Line with id book_store_16d9951a appears twice. The other line is game/Scripts/Prologue/book_store.rpy:13
+
+File "game/Scripts/book_store.rpy", line 19: Line with id book_store_c703f4d4 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:19
+
+File "game/Scripts/book_store.rpy", line 21: Line with id book_store_77532882 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:21
+
+File "game/Scripts/book_store.rpy", line 23: Line with id book_store_0d37e157 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:23
+
+File "game/Scripts/book_store.rpy", line 25: Line with id book_store_a1542bc5 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:25
+
+File "game/Scripts/book_store.rpy", line 27: Line with id book_store_5c556a32 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:27
+
+File "game/Scripts/book_store.rpy", line 29: Line with id book_store_5e249d7c appears twice. The other line is game/Scripts/Prologue/book_store.rpy:29
+
+File "game/Scripts/book_store.rpy", line 31: Line with id book_store_75d22973 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:31
+
+File "game/Scripts/book_store.rpy", line 33: Line with id book_store_710185be appears twice. The other line is game/Scripts/Prologue/book_store.rpy:33
+
+File "game/Scripts/book_store.rpy", line 37: Line with id book_store_b237660d appears twice. The other line is game/Scripts/Prologue/book_store.rpy:37
+
+File "game/Scripts/book_store.rpy", line 39: Line with id book_store_a502af92 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:39
+
+File "game/Scripts/book_store.rpy", line 41: Line with id book_store_8a285f86 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:41
+
+File "game/Scripts/book_store.rpy", line 45: Line with id book_store_8af804db appears twice. The other line is game/Scripts/Prologue/book_store.rpy:45
+
+File "game/Scripts/book_store.rpy", line 47: Line with id book_store_315b73c9 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:47
+
+File "game/Scripts/book_store.rpy", line 49: Line with id book_store_bc6cae42 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:49
+
+File "game/Scripts/book_store.rpy", line 51: Line with id book_store_deedd933 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:51
+
+File "game/Scripts/book_store.rpy", line 53: Line with id book_store_48c4b44f appears twice. The other line is game/Scripts/Prologue/book_store.rpy:53
+
+File "game/Scripts/book_store.rpy", line 55: Line with id book_store_35a32b24 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:55
+
+File "game/Scripts/book_store.rpy", line 57: Line with id book_store_88c45c54 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:57
+
+File "game/Scripts/book_store.rpy", line 61: Line with id book_store_68d825d3 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:61
+
+File "game/Scripts/book_store.rpy", line 63: Line with id book_store_f56bd5f5 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:63
+
+File "game/Scripts/book_store.rpy", line 65: Line with id book_store_51a4bdad appears twice. The other line is game/Scripts/Prologue/book_store.rpy:65
+
+File "game/Scripts/book_store.rpy", line 69: Line with id book_store_2c9bf81c appears twice. The other line is game/Scripts/Prologue/book_store.rpy:69
+
+File "game/Scripts/book_store.rpy", line 71: Line with id book_store_5b095d75 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:71
+
+File "game/Scripts/book_store.rpy", line 73: Line with id book_store_3392f56f appears twice. The other line is game/Scripts/Prologue/book_store.rpy:73
+
+File "game/Scripts/book_store.rpy", line 75: Line with id book_store_55d6f08f appears twice. The other line is game/Scripts/Prologue/book_store.rpy:75
+
+File "game/Scripts/book_store.rpy", line 77: Line with id book_store_2365bc2e appears twice. The other line is game/Scripts/Prologue/book_store.rpy:77
+
+File "game/Scripts/book_store.rpy", line 79: Line with id book_store_543fce2d appears twice. The other line is game/Scripts/Prologue/book_store.rpy:79
+
+File "game/Scripts/book_store.rpy", line 81: Line with id book_store_fe291c2b appears twice. The other line is game/Scripts/Prologue/book_store.rpy:81
+
+File "game/Scripts/book_store.rpy", line 83: Line with id book_store_61df06c2 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:83
+
+File "game/Scripts/book_store.rpy", line 85: Line with id book_store_5e9cec6e appears twice. The other line is game/Scripts/Prologue/book_store.rpy:85
+
+File "game/Scripts/book_store.rpy", line 90: Line with id book_store_bb1a24ee appears twice. The other line is game/Scripts/Prologue/book_store.rpy:90
+
+File "game/Scripts/book_store.rpy", line 92: Line with id book_store_bf6a3194 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:92
+
+File "game/Scripts/book_store.rpy", line 94: Line with id book_store_30adfbf4 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:94
+
+File "game/Scripts/book_store.rpy", line 98: Line with id book_store_fda6b768 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:98
+
+File "game/Scripts/book_store.rpy", line 100: Line with id book_store_07b30246 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:100
+
+File "game/Scripts/book_store.rpy", line 104: Line with id book_store_ad68c882 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:104
+
+File "game/Scripts/book_store.rpy", line 106: Line with id book_store_20711eb5 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:106
+
+File "game/Scripts/book_store.rpy", line 108: Line with id book_store_5038e661 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:108
+
+File "game/Scripts/book_store.rpy", line 110: Line with id book_store_5bdad067 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:110
+
+File "game/Scripts/book_store.rpy", line 112: Line with id book_store_1fca1757 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:112
+
+File "game/Scripts/book_store.rpy", line 114: Line with id book_store_9c13270e appears twice. The other line is game/Scripts/Prologue/book_store.rpy:114
+
+File "game/Scripts/book_store.rpy", line 116: Line with id book_store_746e45ec appears twice. The other line is game/Scripts/Prologue/book_store.rpy:116
+
+File "game/Scripts/book_store.rpy", line 118: Line with id book_store_3820771a appears twice. The other line is game/Scripts/Prologue/book_store.rpy:118
+
+File "game/Scripts/book_store.rpy", line 120: Line with id book_store_ca4aebdc appears twice. The other line is game/Scripts/Prologue/book_store.rpy:120
+
+File "game/Scripts/book_store.rpy", line 122: Line with id book_store_663c59c9 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:122
+
+File "game/Scripts/book_store.rpy", line 124: Line with id book_store_2d9fe525 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:124
+
+File "game/Scripts/book_store.rpy", line 126: Line with id book_store_208391ed appears twice. The other line is game/Scripts/Prologue/book_store.rpy:126
+
+File "game/Scripts/book_store.rpy", line 128: Line with id book_store_e84e49a8 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:128
+
+File "game/Scripts/book_store.rpy", line 130: Line with id book_store_934cf22e appears twice. The other line is game/Scripts/Prologue/book_store.rpy:130
+
+File "game/Scripts/book_store.rpy", line 132: Line with id book_store_4bfb0b4b appears twice. The other line is game/Scripts/Prologue/book_store.rpy:132
+
+File "game/Scripts/book_store.rpy", line 134: Line with id book_store_0f9f0be3 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:134
+
+File "game/Scripts/book_store.rpy", line 138: Line with id book_store_a20cefa7 appears twice. The other line is game/Scripts/Prologue/book_store.rpy:138
+
+File "game/Scripts/boss_office.rpy", line 5: Line with id boss_office_first_13da4e28 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:5
+
+File "game/Scripts/boss_office.rpy", line 9: Line with id boss_office_first_9020c261 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:9
+
+File "game/Scripts/boss_office.rpy", line 11: Line with id boss_office_first_5646a887 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:11
+
+File "game/Scripts/boss_office.rpy", line 13: Line with id boss_office_first_e8db8fbe appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:13
+
+File "game/Scripts/boss_office.rpy", line 15: Line with id boss_office_first_926cfc1d appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:15
+
+File "game/Scripts/boss_office.rpy", line 17: Line with id boss_office_first_667fb405 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:17
+
+File "game/Scripts/boss_office.rpy", line 19: Line with id boss_office_first_53c9bb93 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:19
+
+File "game/Scripts/boss_office.rpy", line 21: Line with id boss_office_first_2f90e0c1 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:21
+
+File "game/Scripts/boss_office.rpy", line 23: Line with id boss_office_first_a158aebd appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:23
+
+File "game/Scripts/boss_office.rpy", line 25: Line with id boss_office_first_bdaa21b6 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:25
+
+File "game/Scripts/boss_office.rpy", line 27: Line with id boss_office_first_42356258 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:27
+
+File "game/Scripts/boss_office.rpy", line 29: Line with id boss_office_first_8015def7 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:29
+
+File "game/Scripts/boss_office.rpy", line 31: Line with id boss_office_first_2cda03bb appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:31
+
+File "game/Scripts/boss_office.rpy", line 33: Line with id boss_office_first_a794fe4f appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:33
+
+File "game/Scripts/boss_office.rpy", line 35: Line with id boss_office_first_94794dff appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:35
+
+File "game/Scripts/boss_office.rpy", line 37: Line with id boss_office_first_04d6ae26 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:37
+
+File "game/Scripts/boss_office.rpy", line 41: Line with id boss_office_first_8787fd01 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:41
+
+File "game/Scripts/boss_office.rpy", line 43: Line with id boss_office_first_3d6d6590 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:43
+
+File "game/Scripts/boss_office.rpy", line 45: Line with id boss_office_first_12c7e2a0 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:45
+
+File "game/Scripts/boss_office.rpy", line 47: Line with id boss_office_first_782811ff appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:47
+
+File "game/Scripts/boss_office.rpy", line 49: Line with id boss_office_first_9bbccf20 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:49
+
+File "game/Scripts/boss_office.rpy", line 51: Line with id boss_office_first_ff9b8a81 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:51
+
+File "game/Scripts/boss_office.rpy", line 53: Line with id boss_office_first_6e077d0b appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:53
+
+File "game/Scripts/boss_office.rpy", line 55: Line with id boss_office_first_fbbad889 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:55
+
+File "game/Scripts/boss_office.rpy", line 57: Line with id boss_office_first_d31bb1aa appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:57
+
+File "game/Scripts/boss_office.rpy", line 59: Line with id boss_office_first_d4ea0302 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:59
+
+File "game/Scripts/boss_office.rpy", line 61: Line with id boss_office_first_34471cdb appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:61
+
+File "game/Scripts/boss_office.rpy", line 63: Line with id boss_office_first_1714e739 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:63
+
+File "game/Scripts/boss_office.rpy", line 65: Line with id boss_office_first_9d91a06e appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:65
+
+File "game/Scripts/boss_office.rpy", line 67: Line with id boss_office_first_4349df16 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:67
+
+File "game/Scripts/boss_office.rpy", line 69: Line with id boss_office_first_2278cec0 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:69
+
+File "game/Scripts/boss_office.rpy", line 71: Line with id boss_office_first_8b730f56 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:71
+
+File "game/Scripts/boss_office.rpy", line 73: Line with id boss_office_first_28694d93 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:73
+
+File "game/Scripts/boss_office.rpy", line 75: Line with id boss_office_first_6bca2337 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:75
+
+File "game/Scripts/boss_office.rpy", line 77: Line with id boss_office_first_c81f84cd appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:77
+
+File "game/Scripts/boss_office.rpy", line 79: Line with id boss_office_first_9d98efea appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:79
+
+File "game/Scripts/boss_office.rpy", line 85: Line with id boss_office_first_47d07340 appears twice. The other line is game/Scripts/Prologue/boss_office.rpy:85
+
+File "game/Scripts/boss_room.rpy", line 5: Line with id boss_room_line_38c02bb9 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:5
+
+File "game/Scripts/boss_room.rpy", line 7: Line with id boss_room_line_c2ce7c9e appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:7
+
+File "game/Scripts/boss_room.rpy", line 9: Line with id boss_room_line_94cfbc07 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:9
+
+File "game/Scripts/boss_room.rpy", line 11: Line with id boss_room_line_564a2310 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:11
+
+File "game/Scripts/boss_room.rpy", line 15: Line with id boss_room_line_ed0b50ff appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:15
+
+File "game/Scripts/boss_room.rpy", line 17: Line with id boss_room_line_bb70f76b appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:17
+
+File "game/Scripts/boss_room.rpy", line 19: Line with id boss_room_line_9b6829fa appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:19
+
+File "game/Scripts/boss_room.rpy", line 21: Line with id boss_room_line_67c5f2d1 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:21
+
+File "game/Scripts/boss_room.rpy", line 23: Line with id boss_room_line_c8576e52 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:23
+
+File "game/Scripts/boss_room.rpy", line 25: Line with id boss_room_line_3820771a appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:25
+
+File "game/Scripts/boss_room.rpy", line 27: Line with id boss_room_line_00b141a8 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:27
+
+File "game/Scripts/boss_room.rpy", line 29: Line with id boss_room_line_a1142b90 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:29
+
+File "game/Scripts/boss_room.rpy", line 31: Line with id boss_room_line_43eb9467 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:31
+
+File "game/Scripts/boss_room.rpy", line 33: Line with id boss_room_line_4b5411ad appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:33
+
+File "game/Scripts/boss_room.rpy", line 35: Line with id boss_room_line_b50739fe appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:35
+
+File "game/Scripts/boss_room.rpy", line 39: Line with id boss_room_line_900a0132 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:39
+
+File "game/Scripts/boss_room.rpy", line 41: Line with id boss_room_line_db6b49f8 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:41
+
+File "game/Scripts/boss_room.rpy", line 43: Line with id boss_room_line_d0e851f4 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:43
+
+File "game/Scripts/boss_room.rpy", line 45: Line with id boss_room_line_fd4cc025 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:45
+
+File "game/Scripts/boss_room.rpy", line 47: Line with id boss_room_line_6c5839cc appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:47
+
+File "game/Scripts/boss_room.rpy", line 49: Line with id boss_room_line_b584511b appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:49
+
+File "game/Scripts/boss_room.rpy", line 51: Line with id boss_room_line_5ec4563f appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:51
+
+File "game/Scripts/boss_room.rpy", line 53: Line with id boss_room_line_1d5c4536 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:53
+
+File "game/Scripts/boss_room.rpy", line 55: Line with id boss_room_line_d66e6215 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:55
+
+File "game/Scripts/boss_room.rpy", line 57: Line with id boss_room_line_bd2a2ba5 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:57
+
+File "game/Scripts/boss_room.rpy", line 59: Line with id boss_room_line_c829c1d3 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:59
+
+File "game/Scripts/boss_room.rpy", line 61: Line with id boss_room_line_f08a4895 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:61
+
+File "game/Scripts/boss_room.rpy", line 65: Line with id boss_room_line_fabbaaf7 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:65
+
+File "game/Scripts/boss_room.rpy", line 67: Line with id boss_room_line_743aa604 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:67
+
+File "game/Scripts/boss_room.rpy", line 69: Line with id boss_room_line_f2382063 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:69
+
+File "game/Scripts/boss_room.rpy", line 71: Line with id boss_room_line_a20cefa7 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:71
+
+File "game/Scripts/boss_room.rpy", line 73: Line with id boss_room_line_df42c32a appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:73
+
+File "game/Scripts/boss_room.rpy", line 75: Line with id boss_room_line_d93b9ed1 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:75
+
+File "game/Scripts/boss_room.rpy", line 77: Line with id boss_room_line_6ee2dd18 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:77
+
+File "game/Scripts/boss_room.rpy", line 79: Line with id boss_room_line_d2707d1c appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:79
+
+File "game/Scripts/boss_room.rpy", line 81: Line with id boss_room_line_dcea7893 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:81
+
+File "game/Scripts/boss_room.rpy", line 83: Line with id boss_room_line_03c3ff99 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:83
+
+File "game/Scripts/boss_room.rpy", line 85: Line with id boss_room_line_8af612a3 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:85
+
+File "game/Scripts/boss_room.rpy", line 87: Line with id boss_room_line_58d9a9f6 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:87
+
+File "game/Scripts/boss_room.rpy", line 89: Line with id boss_room_line_b5940a6d appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:89
+
+File "game/Scripts/boss_room.rpy", line 91: Line with id boss_room_line_a20cefa7_1 appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:91
+
+File "game/Scripts/boss_room.rpy", line 95: Line with id boss_room_line_5ef89a8d appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:95
+
+File "game/Scripts/boss_room.rpy", line 97: Line with id boss_room_line_4d20983d appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:97
+
+File "game/Scripts/boss_room.rpy", line 99: Line with id boss_room_line_dc5c324a appears twice. The other line is game/Scripts/Prologue/boss_room.rpy:99
+
+File "game/Scripts/glasha_room.rpy", line 7: Line with id glasha_room_first_6c6fa98e appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:7
+
+File "game/Scripts/glasha_room.rpy", line 9: Line with id glasha_room_first_5d377d6b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:9
+
+File "game/Scripts/glasha_room.rpy", line 11: Line with id glasha_room_first_c803ffb2 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:11
+
+File "game/Scripts/glasha_room.rpy", line 13: Line with id glasha_room_first_e245f9e4 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:13
+
+File "game/Scripts/glasha_room.rpy", line 18: Line with id glasha_room_first_4acd02e8 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:18
+
+File "game/Scripts/glasha_room.rpy", line 20: Line with id glasha_room_first_294dfe4b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:20
+
+File "game/Scripts/glasha_room.rpy", line 22: Line with id glasha_room_first_c0d691b7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:22
+
+File "game/Scripts/glasha_room.rpy", line 24: Line with id glasha_room_first_a66d7370 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:24
+
+File "game/Scripts/glasha_room.rpy", line 26: Line with id glasha_room_first_9eadc2df appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:26
+
+File "game/Scripts/glasha_room.rpy", line 28: Line with id glasha_room_first_e2e759a1 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:28
+
+File "game/Scripts/glasha_room.rpy", line 30: Line with id glasha_room_first_339baf14 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:30
+
+File "game/Scripts/glasha_room.rpy", line 35: Line with id glasha_room_first_a20cefa7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:35
+
+File "game/Scripts/glasha_room.rpy", line 37: Line with id glasha_room_first_25ed013c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:37
+
+File "game/Scripts/glasha_room.rpy", line 39: Line with id glasha_room_first_527ac37e appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:39
+
+File "game/Scripts/glasha_room.rpy", line 41: Line with id glasha_room_first_6281e9d9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:41
+
+File "game/Scripts/glasha_room.rpy", line 45: Line with id glasha_room_first_262f749b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:45
+
+File "game/Scripts/glasha_room.rpy", line 50: Line with id glasha_room_first_fc45d7f8 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:50
+
+File "game/Scripts/glasha_room.rpy", line 52: Line with id glasha_room_first_54dfd0e7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:52
+
+File "game/Scripts/glasha_room.rpy", line 57: Line with id glasha_room_first_7c9097b5 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:57
+
+File "game/Scripts/glasha_room.rpy", line 59: Line with id glasha_room_first_223eda63 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:59
+
+File "game/Scripts/glasha_room.rpy", line 61: Line with id glasha_room_first_f54f144b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:61
+
+File "game/Scripts/glasha_room.rpy", line 63: Line with id glasha_room_first_f8fd435f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:63
+
+File "game/Scripts/glasha_room.rpy", line 65: Line with id glasha_room_first_da561e53 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:65
+
+File "game/Scripts/glasha_room.rpy", line 67: Line with id glasha_room_first_b395b4d9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:67
+
+File "game/Scripts/glasha_room.rpy", line 69: Line with id glasha_room_first_a05c8960 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:69
+
+File "game/Scripts/glasha_room.rpy", line 71: Line with id glasha_room_first_b5838152 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:71
+
+File "game/Scripts/glasha_room.rpy", line 73: Line with id glasha_room_first_9ca5db13 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:73
+
+File "game/Scripts/glasha_room.rpy", line 75: Line with id glasha_room_first_c27710f7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:75
+
+File "game/Scripts/glasha_room.rpy", line 77: Line with id glasha_room_first_9d851060 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:77
+
+File "game/Scripts/glasha_room.rpy", line 79: Line with id glasha_room_first_78668d4e appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:79
+
+File "game/Scripts/glasha_room.rpy", line 81: Line with id glasha_room_first_c0d1ca51 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:81
+
+File "game/Scripts/glasha_room.rpy", line 83: Line with id glasha_room_first_4fa0c911 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:83
+
+File "game/Scripts/glasha_room.rpy", line 85: Line with id glasha_room_first_e461db01 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:85
+
+File "game/Scripts/glasha_room.rpy", line 87: Line with id glasha_room_first_c4ec237f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:87
+
+File "game/Scripts/glasha_room.rpy", line 89: Line with id glasha_room_first_7a1ebd00 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:89
+
+File "game/Scripts/glasha_room.rpy", line 91: Line with id glasha_room_first_c295b2b8 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:91
+
+File "game/Scripts/glasha_room.rpy", line 93: Line with id glasha_room_first_35a48227 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:93
+
+File "game/Scripts/glasha_room.rpy", line 95: Line with id glasha_room_first_cccdc562 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:95
+
+File "game/Scripts/glasha_room.rpy", line 97: Line with id glasha_room_first_8a0253b9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:97
+
+File "game/Scripts/glasha_room.rpy", line 105: Line with id glasha_room_first_18256b4b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:105
+
+File "game/Scripts/glasha_room.rpy", line 107: Line with id glasha_room_first_a8f542e0 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:107
+
+File "game/Scripts/glasha_room.rpy", line 109: Line with id glasha_room_first_03e05a4c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:109
+
+File "game/Scripts/glasha_room.rpy", line 111: Line with id glasha_room_first_3a44d93d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:111
+
+File "game/Scripts/glasha_room.rpy", line 113: Line with id glasha_room_first_bf5e12ed appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:113
+
+File "game/Scripts/glasha_room.rpy", line 115: Line with id glasha_room_first_e54c1282 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:115
+
+File "game/Scripts/glasha_room.rpy", line 117: Line with id glasha_room_first_3d4c9f98 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:117
+
+File "game/Scripts/glasha_room.rpy", line 119: Line with id glasha_room_first_f19b2b7b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:119
+
+File "game/Scripts/glasha_room.rpy", line 121: Line with id glasha_room_first_848f1af1 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:121
+
+File "game/Scripts/glasha_room.rpy", line 123: Line with id glasha_room_first_f2c2e32a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:123
+
+File "game/Scripts/glasha_room.rpy", line 125: Line with id glasha_room_first_ccd41daf appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:125
+
+File "game/Scripts/glasha_room.rpy", line 127: Line with id glasha_room_first_d6778761 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:127
+
+File "game/Scripts/glasha_room.rpy", line 132: Line with id glasha_room_first_b34757ab appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:132
+
+File "game/Scripts/glasha_room.rpy", line 134: Line with id glasha_room_first_a20cefa7_1 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:134
+
+File "game/Scripts/glasha_room.rpy", line 136: Line with id glasha_room_first_f2b8d578 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:136
+
+File "game/Scripts/glasha_room.rpy", line 148: Line with id glasha_room_second_95fdc0dc appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:148
+
+File "game/Scripts/glasha_room.rpy", line 152: Line with id glasha_room_second_d18905f9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:152
+
+File "game/Scripts/glasha_room.rpy", line 154: Line with id glasha_room_second_aa491442 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:154
+
+File "game/Scripts/glasha_room.rpy", line 156: Line with id glasha_room_second_3d2f23b3 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:156
+
+File "game/Scripts/glasha_room.rpy", line 158: Line with id glasha_room_second_e10e2a37 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:158
+
+File "game/Scripts/glasha_room.rpy", line 160: Line with id glasha_room_second_1e77c66c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:160
+
+File "game/Scripts/glasha_room.rpy", line 162: Line with id glasha_room_second_32f71789 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:162
+
+File "game/Scripts/glasha_room.rpy", line 165: Line with id glasha_room_second_d5f4e8ab appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:165
+
+File "game/Scripts/glasha_room.rpy", line 167: Line with id glasha_room_second_c5e8bb1b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:167
+
+File "game/Scripts/glasha_room.rpy", line 169: Line with id glasha_room_second_5ceb395d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:169
+
+File "game/Scripts/glasha_room.rpy", line 171: Line with id glasha_room_second_bf2e9e38 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:171
+
+File "game/Scripts/glasha_room.rpy", line 173: Line with id glasha_room_second_9b918dc5 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:173
+
+File "game/Scripts/glasha_room.rpy", line 175: Line with id glasha_room_second_3ef8430a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:175
+
+File "game/Scripts/glasha_room.rpy", line 177: Line with id glasha_room_second_9799e842 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:177
+
+File "game/Scripts/glasha_room.rpy", line 179: Line with id glasha_room_second_5def14a4 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:179
+
+File "game/Scripts/glasha_room.rpy", line 181: Line with id glasha_room_second_7eb11c51 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:181
+
+File "game/Scripts/glasha_room.rpy", line 183: Line with id glasha_room_second_674ac1f3 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:183
+
+File "game/Scripts/glasha_room.rpy", line 185: Line with id glasha_room_second_976343b7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:185
+
+File "game/Scripts/glasha_room.rpy", line 187: Line with id glasha_room_second_6a5fe8be appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:187
+
+File "game/Scripts/glasha_room.rpy", line 189: Line with id glasha_room_second_d3f21d20 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:189
+
+File "game/Scripts/glasha_room.rpy", line 191: Line with id glasha_room_second_a20cefa7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:191
+
+File "game/Scripts/glasha_room.rpy", line 193: Line with id glasha_room_second_7752d401 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:193
+
+File "game/Scripts/glasha_room.rpy", line 205: Line with id glasha_room_third_3d680056 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:205
+
+File "game/Scripts/glasha_room.rpy", line 207: Line with id glasha_room_third_f490dcee appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:207
+
+File "game/Scripts/glasha_room.rpy", line 209: Line with id glasha_room_third_2626b1bd appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:209
+
+File "game/Scripts/glasha_room.rpy", line 211: Line with id glasha_room_third_0842860b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:211
+
+File "game/Scripts/glasha_room.rpy", line 213: Line with id glasha_room_third_74dfabd9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:213
+
+File "game/Scripts/glasha_room.rpy", line 217: Line with id glasha_room_third_f2df2acb appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:217
+
+File "game/Scripts/glasha_room.rpy", line 219: Line with id glasha_room_third_dbb687bd appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:219
+
+File "game/Scripts/glasha_room.rpy", line 230: Line with id dream_dialog_true_d71c3ed5 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:230
+
+File "game/Scripts/glasha_room.rpy", line 232: Line with id dream_dialog_true_9195a181 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:232
+
+File "game/Scripts/glasha_room.rpy", line 234: Line with id dream_dialog_true_a1e419bb appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:234
+
+File "game/Scripts/glasha_room.rpy", line 236: Line with id dream_dialog_true_82941fdd appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:236
+
+File "game/Scripts/glasha_room.rpy", line 238: Line with id dream_dialog_true_b98f4ac4 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:238
+
+File "game/Scripts/glasha_room.rpy", line 240: Line with id dream_dialog_true_9259df27 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:240
+
+File "game/Scripts/glasha_room.rpy", line 242: Line with id dream_dialog_true_4c976b9c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:242
+
+File "game/Scripts/glasha_room.rpy", line 244: Line with id dream_dialog_true_f2033994 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:244
+
+File "game/Scripts/glasha_room.rpy", line 246: Line with id dream_dialog_true_551a5dac appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:246
+
+File "game/Scripts/glasha_room.rpy", line 254: Line with id dream_dialog_false_46d2d8c7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:254
+
+File "game/Scripts/glasha_room.rpy", line 256: Line with id dream_dialog_false_2afa6279 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:256
+
+File "game/Scripts/glasha_room.rpy", line 258: Line with id dream_dialog_false_055701c5 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:258
+
+File "game/Scripts/glasha_room.rpy", line 260: Line with id dream_dialog_false_48a57b5d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:260
+
+File "game/Scripts/glasha_room.rpy", line 262: Line with id dream_dialog_false_d07bbf7f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:262
+
+File "game/Scripts/glasha_room.rpy", line 264: Line with id dream_dialog_false_8bef6444 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:264
+
+File "game/Scripts/glasha_room.rpy", line 266: Line with id dream_dialog_false_61a9a571 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:266
+
+File "game/Scripts/glasha_room.rpy", line 268: Line with id dream_dialog_false_be8d26ce appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:268
+
+File "game/Scripts/glasha_room.rpy", line 281: Line with id glasha_room_third_continue_7944ae56 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:281
+
+File "game/Scripts/glasha_room.rpy", line 283: Line with id glasha_room_third_continue_08c57e68 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:283
+
+File "game/Scripts/glasha_room.rpy", line 285: Line with id glasha_room_third_continue_d19f6197 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:285
+
+File "game/Scripts/glasha_room.rpy", line 287: Line with id glasha_room_third_continue_fe625ca3 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:287
+
+File "game/Scripts/glasha_room.rpy", line 289: Line with id glasha_room_third_continue_dd918385 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:289
+
+File "game/Scripts/glasha_room.rpy", line 291: Line with id glasha_room_third_continue_df8f410e appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:291
+
+File "game/Scripts/glasha_room.rpy", line 293: Line with id glasha_room_third_continue_5688c431 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:293
+
+File "game/Scripts/glasha_room.rpy", line 295: Line with id glasha_room_third_continue_aecc9d68 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:295
+
+File "game/Scripts/glasha_room.rpy", line 297: Line with id glasha_room_third_continue_34291cbf appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:297
+
+File "game/Scripts/glasha_room.rpy", line 304: Line with id glasha_room_third_continue_b9a6ebb8 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:304
+
+File "game/Scripts/glasha_room.rpy", line 306: Line with id glasha_room_third_continue_bbfa848c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:306
+
+File "game/Scripts/glasha_room.rpy", line 308: Line with id glasha_room_third_continue_d3e8506a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:308
+
+File "game/Scripts/glasha_room.rpy", line 312: Line with id glasha_room_third_continue_b1baf324 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:312
+
+File "game/Scripts/glasha_room.rpy", line 324: Line with id glasha_room_forth_9dff3647 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:324
+
+File "game/Scripts/glasha_room.rpy", line 328: Line with id glasha_room_forth_63c18de7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:328
+
+File "game/Scripts/glasha_room.rpy", line 330: Line with id glasha_room_forth_1f08f583 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:330
+
+File "game/Scripts/glasha_room.rpy", line 332: Line with id glasha_room_forth_cec2191f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:332
+
+File "game/Scripts/glasha_room.rpy", line 334: Line with id glasha_room_forth_df8b1700 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:334
+
+File "game/Scripts/glasha_room.rpy", line 336: Line with id glasha_room_forth_225216cc appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:336
+
+File "game/Scripts/glasha_room.rpy", line 338: Line with id glasha_room_forth_80903348 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:338
+
+File "game/Scripts/glasha_room.rpy", line 340: Line with id glasha_room_forth_fd990c74 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:340
+
+File "game/Scripts/glasha_room.rpy", line 342: Line with id glasha_room_forth_43e8cb5a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:342
+
+File "game/Scripts/glasha_room.rpy", line 344: Line with id glasha_room_forth_dce2fe69 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:344
+
+File "game/Scripts/glasha_room.rpy", line 346: Line with id glasha_room_forth_c0283b40 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:346
+
+File "game/Scripts/glasha_room.rpy", line 348: Line with id glasha_room_forth_1284f450 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:348
+
+File "game/Scripts/glasha_room.rpy", line 350: Line with id glasha_room_forth_b0cc4b3a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:350
+
+File "game/Scripts/glasha_room.rpy", line 352: Line with id glasha_room_forth_ffe56222 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:352
+
+File "game/Scripts/glasha_room.rpy", line 354: Line with id glasha_room_forth_33f548de appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:354
+
+File "game/Scripts/glasha_room.rpy", line 360: Line with id glasha_room_forth_d1f389e7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:360
+
+File "game/Scripts/glasha_room.rpy", line 362: Line with id glasha_room_forth_163243ef appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:362
+
+File "game/Scripts/glasha_room.rpy", line 364: Line with id glasha_room_forth_85ec354f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:364
+
+File "game/Scripts/glasha_room.rpy", line 366: Line with id glasha_room_forth_5c0d71ea appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:366
+
+File "game/Scripts/glasha_room.rpy", line 372: Line with id glasha_room_forth_9cf376d1 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:372
+
+File "game/Scripts/glasha_room.rpy", line 374: Line with id glasha_room_forth_06125a2f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:374
+
+File "game/Scripts/glasha_room.rpy", line 376: Line with id glasha_room_forth_79daf1fc appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:376
+
+File "game/Scripts/glasha_room.rpy", line 378: Line with id glasha_room_forth_acb077c1 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:378
+
+File "game/Scripts/glasha_room.rpy", line 380: Line with id glasha_room_forth_fd8c74ef appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:380
+
+File "game/Scripts/glasha_room.rpy", line 382: Line with id glasha_room_forth_4cad7377 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:382
+
+File "game/Scripts/glasha_room.rpy", line 384: Line with id glasha_room_forth_4d882c45 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:384
+
+File "game/Scripts/glasha_room.rpy", line 386: Line with id glasha_room_forth_868c02dc appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:386
+
+File "game/Scripts/glasha_room.rpy", line 388: Line with id glasha_room_forth_a71c9729 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:388
+
+File "game/Scripts/glasha_room.rpy", line 390: Line with id glasha_room_forth_f8c31821 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:390
+
+File "game/Scripts/glasha_room.rpy", line 392: Line with id glasha_room_forth_919b3617 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:392
+
+File "game/Scripts/glasha_room.rpy", line 394: Line with id glasha_room_forth_fe110b7e appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:394
+
+File "game/Scripts/glasha_room.rpy", line 396: Line with id glasha_room_forth_402eec18 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:396
+
+File "game/Scripts/glasha_room.rpy", line 398: Line with id glasha_room_forth_7170c603 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:398
+
+File "game/Scripts/glasha_room.rpy", line 400: Line with id glasha_room_forth_2321f091 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:400
+
+File "game/Scripts/glasha_room.rpy", line 402: Line with id glasha_room_forth_8f14c26c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:402
+
+File "game/Scripts/glasha_room.rpy", line 404: Line with id glasha_room_forth_3038fc1f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:404
+
+File "game/Scripts/glasha_room.rpy", line 406: Line with id glasha_room_forth_b237660d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:406
+
+File "game/Scripts/glasha_room.rpy", line 408: Line with id glasha_room_forth_2d60fdba appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:408
+
+File "game/Scripts/glasha_room.rpy", line 410: Line with id glasha_room_forth_63efe283 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:410
+
+File "game/Scripts/glasha_room.rpy", line 414: Line with id glasha_room_forth_f0c362c4 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:414
+
+File "game/Scripts/glasha_room.rpy", line 416: Line with id glasha_room_forth_4b4081c9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:416
+
+File "game/Scripts/glasha_room.rpy", line 418: Line with id glasha_room_forth_5db1ce4c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:418
+
+File "game/Scripts/glasha_room.rpy", line 420: Line with id glasha_room_forth_f2bb505f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:420
+
+File "game/Scripts/glasha_room.rpy", line 422: Line with id glasha_room_forth_57d0bb51 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:422
+
+File "game/Scripts/glasha_room.rpy", line 424: Line with id glasha_room_forth_85021297 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:424
+
+File "game/Scripts/glasha_room.rpy", line 428: Line with id glasha_room_forth_45f4bf55 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:428
+
+File "game/Scripts/glasha_room.rpy", line 430: Line with id glasha_room_forth_a43d6fae appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:430
+
+File "game/Scripts/glasha_room.rpy", line 432: Line with id glasha_room_forth_887af714 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:432
+
+File "game/Scripts/glasha_room.rpy", line 434: Line with id glasha_room_forth_81237f38 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:434
+
+File "game/Scripts/glasha_room.rpy", line 436: Line with id glasha_room_forth_ba33373a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:436
+
+File "game/Scripts/glasha_room.rpy", line 438: Line with id glasha_room_forth_1fa31cb4 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:438
+
+File "game/Scripts/glasha_room.rpy", line 440: Line with id glasha_room_forth_9d0a6554 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:440
+
+File "game/Scripts/glasha_room.rpy", line 442: Line with id glasha_room_forth_742e29dd appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:442
+
+File "game/Scripts/glasha_room.rpy", line 446: Line with id glasha_room_forth_8380dd75 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:446
+
+File "game/Scripts/glasha_room.rpy", line 448: Line with id glasha_room_forth_85787ad8 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:448
+
+File "game/Scripts/glasha_room.rpy", line 450: Line with id glasha_room_forth_ccd86718 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:450
+
+File "game/Scripts/glasha_room.rpy", line 452: Line with id glasha_room_forth_908368d3 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:452
+
+File "game/Scripts/glasha_room.rpy", line 454: Line with id glasha_room_forth_d30c4309 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:454
+
+File "game/Scripts/glasha_room.rpy", line 456: Line with id glasha_room_forth_3eea1d04 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:456
+
+File "game/Scripts/glasha_room.rpy", line 458: Line with id glasha_room_forth_d89992b6 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:458
+
+File "game/Scripts/glasha_room.rpy", line 468: Line with id glasha_room_forth_0066f67d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:468
+
+File "game/Scripts/glasha_room.rpy", line 470: Line with id glasha_room_forth_004e6597 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:470
+
+File "game/Scripts/glasha_room.rpy", line 472: Line with id glasha_room_forth_87314d44 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:472
+
+File "game/Scripts/glasha_room.rpy", line 474: Line with id glasha_room_forth_227ada65 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:474
+
+File "game/Scripts/glasha_room.rpy", line 476: Line with id glasha_room_forth_69675c5b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:476
+
+File "game/Scripts/glasha_room.rpy", line 478: Line with id glasha_room_forth_fe09c7c3 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:478
+
+File "game/Scripts/glasha_room.rpy", line 480: Line with id glasha_room_forth_8b99193e appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:480
+
+File "game/Scripts/glasha_room.rpy", line 482: Line with id glasha_room_forth_cba29b32 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:482
+
+File "game/Scripts/glasha_room.rpy", line 484: Line with id glasha_room_forth_9d9a50ff appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:484
+
+File "game/Scripts/glasha_room.rpy", line 486: Line with id glasha_room_forth_e4610229 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:486
+
+File "game/Scripts/glasha_room.rpy", line 490: Line with id glasha_room_forth_fe3b5b55 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:490
+
+File "game/Scripts/glasha_room.rpy", line 492: Line with id glasha_room_forth_94bdfb88 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:492
+
+File "game/Scripts/glasha_room.rpy", line 496: Line with id glasha_room_forth_1e9827e6 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:496
+
+File "game/Scripts/glasha_room.rpy", line 500: Line with id glasha_room_forth_47559f32 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:500
+
+File "game/Scripts/glasha_room.rpy", line 502: Line with id glasha_room_forth_ad78ec13 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:502
+
+File "game/Scripts/glasha_room.rpy", line 504: Line with id glasha_room_forth_f5212dc5 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:504
+
+File "game/Scripts/glasha_room.rpy", line 508: Line with id glasha_room_forth_2ab9432f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:508
+
+File "game/Scripts/glasha_room.rpy", line 510: Line with id glasha_room_forth_07990e85 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:510
+
+File "game/Scripts/glasha_room.rpy", line 512: Line with id glasha_room_forth_30887d45 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:512
+
+File "game/Scripts/glasha_room.rpy", line 514: Line with id glasha_room_forth_0c9b361b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:514
+
+File "game/Scripts/glasha_room.rpy", line 516: Line with id glasha_room_forth_4cbd86a9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:516
+
+File "game/Scripts/glasha_room.rpy", line 534: Line with id is_talking_again_a012141a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:534
+
+File "game/Scripts/glasha_room.rpy", line 536: Line with id is_talking_again_22f1ab20 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:536
+
+File "game/Scripts/glasha_room.rpy", line 538: Line with id is_talking_again_1536ee06 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:538
+
+File "game/Scripts/glasha_room.rpy", line 540: Line with id is_talking_again_d857cb84 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:540
+
+File "game/Scripts/glasha_room.rpy", line 542: Line with id is_talking_again_ebd5e241 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:542
+
+File "game/Scripts/glasha_room.rpy", line 544: Line with id is_talking_again_f6d4ef3b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:544
+
+File "game/Scripts/glasha_room.rpy", line 546: Line with id is_talking_again_ecd3a961 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:546
+
+File "game/Scripts/glasha_room.rpy", line 548: Line with id is_talking_again_86e5dc4a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:548
+
+File "game/Scripts/glasha_room.rpy", line 550: Line with id is_talking_again_da033c17 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:550
+
+File "game/Scripts/glasha_room.rpy", line 552: Line with id is_talking_again_e1c7d75b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:552
+
+File "game/Scripts/glasha_room.rpy", line 554: Line with id is_talking_again_682276c3 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:554
+
+File "game/Scripts/glasha_room.rpy", line 556: Line with id is_talking_again_0de6be0b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:556
+
+File "game/Scripts/glasha_room.rpy", line 558: Line with id is_talking_again_56971b0d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:558
+
+File "game/Scripts/glasha_room.rpy", line 560: Line with id is_talking_again_cae3fcf0 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:560
+
+File "game/Scripts/glasha_room.rpy", line 562: Line with id is_talking_again_e959a0d0 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:562
+
+File "game/Scripts/glasha_room.rpy", line 564: Line with id is_talking_again_0a959f60 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:564
+
+File "game/Scripts/glasha_room.rpy", line 566: Line with id is_talking_again_d2cee426 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:566
+
+File "game/Scripts/glasha_room.rpy", line 568: Line with id is_talking_again_002a0118 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:568
+
+File "game/Scripts/glasha_room.rpy", line 570: Line with id is_talking_again_9d6d0567 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:570
+
+File "game/Scripts/glasha_room.rpy", line 572: Line with id is_talking_again_fcca5b0a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:572
+
+File "game/Scripts/glasha_room.rpy", line 576: Line with id is_talking_again_2bd9f04a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:576
+
+File "game/Scripts/glasha_room.rpy", line 578: Line with id is_talking_again_5865ae56 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:578
+
+File "game/Scripts/glasha_room.rpy", line 580: Line with id is_talking_again_36b17bc9 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:580
+
+File "game/Scripts/glasha_room.rpy", line 590: Line with id is_not_talking_again_92bd6b9d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:590
+
+File "game/Scripts/glasha_room.rpy", line 592: Line with id is_not_talking_again_89ffdc34 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:592
+
+File "game/Scripts/glasha_room.rpy", line 594: Line with id is_not_talking_again_75ac136f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:594
+
+File "game/Scripts/glasha_room.rpy", line 596: Line with id is_not_talking_again_b15e3973 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:596
+
+File "game/Scripts/glasha_room.rpy", line 598: Line with id is_not_talking_again_16e82d21 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:598
+
+File "game/Scripts/glasha_room.rpy", line 600: Line with id is_not_talking_again_037c97d2 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:600
+
+File "game/Scripts/glasha_room.rpy", line 602: Line with id is_not_talking_again_43686ceb appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:602
+
+File "game/Scripts/glasha_room.rpy", line 606: Line with id is_not_talking_again_813bb786 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:606
+
+File "game/Scripts/glasha_room.rpy", line 608: Line with id is_not_talking_again_06628bdc appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:608
+
+File "game/Scripts/glasha_room.rpy", line 610: Line with id is_not_talking_again_32ecf55d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:610
+
+File "game/Scripts/glasha_room.rpy", line 620: Line with id talk_with_yulia_1c87e64f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:620
+
+File "game/Scripts/glasha_room.rpy", line 622: Line with id talk_with_yulia_2547132f appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:622
+
+File "game/Scripts/glasha_room.rpy", line 624: Line with id talk_with_yulia_715f0bb6 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:624
+
+File "game/Scripts/glasha_room.rpy", line 626: Line with id talk_with_yulia_cf767075 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:626
+
+File "game/Scripts/glasha_room.rpy", line 628: Line with id talk_with_yulia_4699ef8d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:628
+
+File "game/Scripts/glasha_room.rpy", line 630: Line with id talk_with_yulia_08714477 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:630
+
+File "game/Scripts/glasha_room.rpy", line 632: Line with id talk_with_yulia_7f056a21 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:632
+
+File "game/Scripts/glasha_room.rpy", line 634: Line with id talk_with_yulia_92677bee appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:634
+
+File "game/Scripts/glasha_room.rpy", line 636: Line with id talk_with_yulia_0038c53a appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:636
+
+File "game/Scripts/glasha_room.rpy", line 638: Line with id talk_with_yulia_54f33ab2 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:638
+
+File "game/Scripts/glasha_room.rpy", line 640: Line with id talk_with_yulia_a2abc235 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:640
+
+File "game/Scripts/glasha_room.rpy", line 642: Line with id talk_with_yulia_6ba29c75 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:642
+
+File "game/Scripts/glasha_room.rpy", line 644: Line with id talk_with_yulia_81cd3f11 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:644
+
+File "game/Scripts/glasha_room.rpy", line 646: Line with id talk_with_yulia_87031df7 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:646
+
+File "game/Scripts/glasha_room.rpy", line 648: Line with id talk_with_yulia_488aab54 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:648
+
+File "game/Scripts/glasha_room.rpy", line 650: Line with id talk_with_yulia_6f3953de appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:650
+
+File "game/Scripts/glasha_room.rpy", line 652: Line with id talk_with_yulia_70914665 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:652
+
+File "game/Scripts/glasha_room.rpy", line 654: Line with id talk_with_yulia_3a52977c appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:654
+
+File "game/Scripts/glasha_room.rpy", line 656: Line with id talk_with_yulia_e901dd5b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:656
+
+File "game/Scripts/glasha_room.rpy", line 658: Line with id talk_with_yulia_e1a6558d appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:658
+
+File "game/Scripts/glasha_room.rpy", line 660: Line with id talk_with_yulia_238c3b3b appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:660
+
+File "game/Scripts/glasha_room.rpy", line 662: Line with id talk_with_yulia_4366e696 appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:662
+
+File "game/Scripts/glasha_room.rpy", line 664: Line with id talk_with_yulia_2503d2bd appears twice. The other line is game/Scripts/Prologue/glasha_room.rpy:664
+
+File "game/Scripts/intermedia.rpy", line 5: Line with id intermedia_5b551ffa appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:5
+
+File "game/Scripts/intermedia.rpy", line 7: Line with id intermedia_8b90d6e2 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:7
+
+File "game/Scripts/intermedia.rpy", line 9: Line with id intermedia_2510736b appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:9
+
+File "game/Scripts/intermedia.rpy", line 11: Line with id intermedia_0230c003 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:11
+
+File "game/Scripts/intermedia.rpy", line 13: Line with id intermedia_57eb3325 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:13
+
+File "game/Scripts/intermedia.rpy", line 15: Line with id intermedia_de0c619c appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:15
+
+File "game/Scripts/intermedia.rpy", line 19: Line with id intermedia_604a92ab appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:19
+
+File "game/Scripts/intermedia.rpy", line 21: Line with id intermedia_d2ff88d3 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:21
+
+File "game/Scripts/intermedia.rpy", line 23: Line with id intermedia_f0d19fc4 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:23
+
+File "game/Scripts/intermedia.rpy", line 25: Line with id intermedia_874f4deb appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:25
+
+File "game/Scripts/intermedia.rpy", line 27: Line with id intermedia_211e5688 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:27
+
+File "game/Scripts/intermedia.rpy", line 29: Line with id intermedia_b7eebee7 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:29
+
+File "game/Scripts/intermedia.rpy", line 31: Line with id intermedia_bc016f31 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:31
+
+File "game/Scripts/intermedia.rpy", line 33: Line with id intermedia_06c24bf5 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:33
+
+File "game/Scripts/intermedia.rpy", line 35: Line with id intermedia_b67156dc appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:35
+
+File "game/Scripts/intermedia.rpy", line 37: Line with id intermedia_80f9b34f appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:37
+
+File "game/Scripts/intermedia.rpy", line 39: Line with id intermedia_f3dae87d appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:39
+
+File "game/Scripts/intermedia.rpy", line 41: Line with id intermedia_1e98df2b appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:41
+
+File "game/Scripts/intermedia.rpy", line 43: Line with id intermedia_d280defe appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:43
+
+File "game/Scripts/intermedia.rpy", line 45: Line with id intermedia_cec6040a appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:45
+
+File "game/Scripts/intermedia.rpy", line 49: Line with id intermedia_b1e57362 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:49
+
+File "game/Scripts/intermedia.rpy", line 53: Line with id intermedia_83d54574 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:53
+
+File "game/Scripts/intermedia.rpy", line 57: Line with id intermedia_ed32f47c appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:57
+
+File "game/Scripts/intermedia.rpy", line 61: Line with id intermedia_8af842cc appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:61
+
+File "game/Scripts/intermedia.rpy", line 67: Line with id intermedia_7e22439b appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:67
+
+File "game/Scripts/intermedia.rpy", line 71: Line with id intermedia_36e4c290 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:71
+
+File "game/Scripts/intermedia.rpy", line 78: Line with id intermedia_31be26f5 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:78
+
+File "game/Scripts/intermedia.rpy", line 82: Line with id intermedia_6788ea18 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:82
+
+File "game/Scripts/intermedia.rpy", line 84: Line with id intermedia_fe2fe716 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:84
+
+File "game/Scripts/intermedia.rpy", line 86: Line with id intermedia_481faeeb appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:86
+
+File "game/Scripts/intermedia.rpy", line 88: Line with id intermedia_b7751d57 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:88
+
+File "game/Scripts/intermedia.rpy", line 90: Line with id intermedia_a20cefa7 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:90
+
+File "game/Scripts/intermedia.rpy", line 92: Line with id intermedia_6fb34ee0 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:92
+
+File "game/Scripts/intermedia.rpy", line 94: Line with id intermedia_976c47d5 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:94
+
+File "game/Scripts/intermedia.rpy", line 99: Line with id intermedia_1315f629 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:99
+
+File "game/Scripts/intermedia.rpy", line 101: Line with id intermedia_a76b98bd appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:101
+
+File "game/Scripts/intermedia.rpy", line 103: Line with id intermedia_ea102f61 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:103
+
+File "game/Scripts/intermedia.rpy", line 105: Line with id intermedia_9f1692f6 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:105
+
+File "game/Scripts/intermedia.rpy", line 107: Line with id intermedia_b74cbacc appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:107
+
+File "game/Scripts/intermedia.rpy", line 109: Line with id intermedia_733e18de appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:109
+
+File "game/Scripts/intermedia.rpy", line 111: Line with id intermedia_80eec4bf appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:111
+
+File "game/Scripts/intermedia.rpy", line 113: Line with id intermedia_3e69e6e6 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:113
+
+File "game/Scripts/intermedia.rpy", line 115: Line with id intermedia_e78b280e appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:115
+
+File "game/Scripts/intermedia.rpy", line 117: Line with id intermedia_af7b3803 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:117
+
+File "game/Scripts/intermedia.rpy", line 119: Line with id intermedia_0492599a appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:119
+
+File "game/Scripts/intermedia.rpy", line 121: Line with id intermedia_9f9093ac appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:121
+
+File "game/Scripts/intermedia.rpy", line 123: Line with id intermedia_c368413c appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:123
+
+File "game/Scripts/intermedia.rpy", line 125: Line with id intermedia_6966e403 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:125
+
+File "game/Scripts/intermedia.rpy", line 127: Line with id intermedia_a6e6ed6b appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:127
+
+File "game/Scripts/intermedia.rpy", line 129: Line with id intermedia_219d494b appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:129
+
+File "game/Scripts/intermedia.rpy", line 131: Line with id intermedia_54815302 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:131
+
+File "game/Scripts/intermedia.rpy", line 133: Line with id intermedia_29c38c5b appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:133
+
+File "game/Scripts/intermedia.rpy", line 135: Line with id intermedia_61bb90b9 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:135
+
+File "game/Scripts/intermedia.rpy", line 137: Line with id intermedia_cf487dfc appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:137
+
+File "game/Scripts/intermedia.rpy", line 139: Line with id intermedia_f7a7ff49 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:139
+
+File "game/Scripts/intermedia.rpy", line 141: Line with id intermedia_2c8a9685 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:141
+
+File "game/Scripts/intermedia.rpy", line 143: Line with id intermedia_88b4c6d0 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:143
+
+File "game/Scripts/intermedia.rpy", line 145: Line with id intermedia_c5fc14b9 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:145
+
+File "game/Scripts/intermedia.rpy", line 147: Line with id intermedia_bb92c002 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:147
+
+File "game/Scripts/intermedia.rpy", line 149: Line with id intermedia_a15811a2 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:149
+
+File "game/Scripts/intermedia.rpy", line 151: Line with id intermedia_b447c0f6 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:151
+
+File "game/Scripts/intermedia.rpy", line 153: Line with id intermedia_84dae554 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:153
+
+File "game/Scripts/intermedia.rpy", line 155: Line with id intermedia_eb675d12 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:155
+
+File "game/Scripts/intermedia.rpy", line 157: Line with id intermedia_328dd428 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:157
+
+File "game/Scripts/intermedia.rpy", line 159: Line with id intermedia_6218a2b4 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:159
+
+File "game/Scripts/intermedia.rpy", line 161: Line with id intermedia_d80f1c06 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:161
+
+File "game/Scripts/intermedia.rpy", line 163: Line with id intermedia_5429bbe6 appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:163
+
+File "game/Scripts/intermedia.rpy", line 167: Line with id intermedia_009d5c1f appears twice. The other line is game/Scripts/Prologue/intermedia.rpy:167
+
+File "game/Scripts/night_alley.rpy", line 7: Line with id night_alley_2e1f3fee appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:7
+
+File "game/Scripts/night_alley.rpy", line 11: Line with id night_alley_86dc8438 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:11
+
+File "game/Scripts/night_alley.rpy", line 13: Line with id night_alley_e338449e appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:13
+
+File "game/Scripts/night_alley.rpy", line 15: Line with id night_alley_e586c41e appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:15
+
+File "game/Scripts/night_alley.rpy", line 17: Line with id night_alley_64e43155 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:17
+
+File "game/Scripts/night_alley.rpy", line 19: Line with id night_alley_fe625ca3 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:19
+
+File "game/Scripts/night_alley.rpy", line 21: Line with id night_alley_b9f3d81f appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:21
+
+File "game/Scripts/night_alley.rpy", line 23: Line with id night_alley_a9d2480d appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:23
+
+File "game/Scripts/night_alley.rpy", line 25: Line with id night_alley_bcabcd0a appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:25
+
+File "game/Scripts/night_alley.rpy", line 27: Line with id night_alley_9c646a68 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:27
+
+File "game/Scripts/night_alley.rpy", line 29: Line with id night_alley_50ccefd7 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:29
+
+File "game/Scripts/night_alley.rpy", line 31: Line with id night_alley_ea78a69e appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:31
+
+File "game/Scripts/night_alley.rpy", line 33: Line with id night_alley_6c45567b appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:33
+
+File "game/Scripts/night_alley.rpy", line 35: Line with id night_alley_17882d97 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:35
+
+File "game/Scripts/night_alley.rpy", line 37: Line with id night_alley_bc66c386 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:37
+
+File "game/Scripts/night_alley.rpy", line 39: Line with id night_alley_0e6f21e6 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:39
+
+File "game/Scripts/night_alley.rpy", line 41: Line with id night_alley_11594c1f appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:41
+
+File "game/Scripts/night_alley.rpy", line 43: Line with id night_alley_868fd6e3 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:43
+
+File "game/Scripts/night_alley.rpy", line 45: Line with id night_alley_09abcb65 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:45
+
+File "game/Scripts/night_alley.rpy", line 47: Line with id night_alley_8380c3f3 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:47
+
+File "game/Scripts/night_alley.rpy", line 49: Line with id night_alley_20975088 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:49
+
+File "game/Scripts/night_alley.rpy", line 53: Line with id night_alley_4acd51e7 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:53
+
+File "game/Scripts/night_alley.rpy", line 55: Line with id night_alley_c4c6066d appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:55
+
+File "game/Scripts/night_alley.rpy", line 57: Line with id night_alley_2670bed5 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:57
+
+File "game/Scripts/night_alley.rpy", line 59: Line with id night_alley_7dd8b9d4 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:59
+
+File "game/Scripts/night_alley.rpy", line 61: Line with id night_alley_1b76610a appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:61
+
+File "game/Scripts/night_alley.rpy", line 63: Line with id night_alley_4d55c2f6 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:63
+
+File "game/Scripts/night_alley.rpy", line 65: Line with id night_alley_1929d0e4 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:65
+
+File "game/Scripts/night_alley.rpy", line 67: Line with id night_alley_57d08907 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:67
+
+File "game/Scripts/night_alley.rpy", line 69: Line with id night_alley_9a8175fe appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:69
+
+File "game/Scripts/night_alley.rpy", line 71: Line with id night_alley_e4f59b80 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:71
+
+File "game/Scripts/night_alley.rpy", line 73: Line with id night_alley_4bf3d192 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:73
+
+File "game/Scripts/night_alley.rpy", line 75: Line with id night_alley_014aac12 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:75
+
+File "game/Scripts/night_alley.rpy", line 77: Line with id night_alley_5f537390 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:77
+
+File "game/Scripts/night_alley.rpy", line 79: Line with id night_alley_cebbde27 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:79
+
+File "game/Scripts/night_alley.rpy", line 81: Line with id night_alley_8e141444 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:81
+
+File "game/Scripts/night_alley.rpy", line 83: Line with id night_alley_dde53cdf appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:83
+
+File "game/Scripts/night_alley.rpy", line 85: Line with id night_alley_a916a959 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:85
+
+File "game/Scripts/night_alley.rpy", line 87: Line with id night_alley_5f666e50 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:87
+
+File "game/Scripts/night_alley.rpy", line 91: Line with id night_alley_25a46ab5 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:91
+
+File "game/Scripts/night_alley.rpy", line 93: Line with id night_alley_5ce6d217 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:93
+
+File "game/Scripts/night_alley.rpy", line 95: Line with id night_alley_b29043ed appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:95
+
+File "game/Scripts/night_alley.rpy", line 111: Line with id yulia_saves_again_11965c00 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:111
+
+File "game/Scripts/night_alley.rpy", line 113: Line with id yulia_saves_again_3b268617 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:113
+
+File "game/Scripts/night_alley.rpy", line 115: Line with id yulia_saves_again_5aa1e896 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:115
+
+File "game/Scripts/night_alley.rpy", line 117: Line with id yulia_saves_again_471a50b0 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:117
+
+File "game/Scripts/night_alley.rpy", line 119: Line with id yulia_saves_again_0d2f3558 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:119
+
+File "game/Scripts/night_alley.rpy", line 121: Line with id yulia_saves_again_df817002 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:121
+
+File "game/Scripts/night_alley.rpy", line 123: Line with id yulia_saves_again_07a8d691 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:123
+
+File "game/Scripts/night_alley.rpy", line 129: Line with id yulia_saves_again_0e6280a1 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:129
+
+File "game/Scripts/night_alley.rpy", line 131: Line with id yulia_saves_again_50b2d6df appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:131
+
+File "game/Scripts/night_alley.rpy", line 133: Line with id yulia_saves_again_fbf993d7 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:133
+
+File "game/Scripts/night_alley.rpy", line 135: Line with id yulia_saves_again_4fab2998 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:135
+
+File "game/Scripts/night_alley.rpy", line 137: Line with id yulia_saves_again_9b617ca0 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:137
+
+File "game/Scripts/night_alley.rpy", line 139: Line with id yulia_saves_again_07252213 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:139
+
+File "game/Scripts/night_alley.rpy", line 141: Line with id yulia_saves_again_8be2485a appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:141
+
+File "game/Scripts/night_alley.rpy", line 143: Line with id yulia_saves_again_310ac8cd appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:143
+
+File "game/Scripts/night_alley.rpy", line 145: Line with id yulia_saves_again_f440eb24 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:145
+
+File "game/Scripts/night_alley.rpy", line 147: Line with id yulia_saves_again_92f6fdf3 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:147
+
+File "game/Scripts/night_alley.rpy", line 149: Line with id yulia_saves_again_7dc4f9e2 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:149
+
+File "game/Scripts/night_alley.rpy", line 151: Line with id yulia_saves_again_e2eced32 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:151
+
+File "game/Scripts/night_alley.rpy", line 153: Line with id yulia_saves_again_135abced appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:153
+
+File "game/Scripts/night_alley.rpy", line 155: Line with id yulia_saves_again_1f0117a8 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:155
+
+File "game/Scripts/night_alley.rpy", line 157: Line with id yulia_saves_again_b4fe29d8 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:157
+
+File "game/Scripts/night_alley.rpy", line 164: Line with id yulia_saves_again_1acf09b7 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:164
+
+File "game/Scripts/night_alley.rpy", line 168: Line with id yulia_saves_again_2aeeda06 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:168
+
+File "game/Scripts/night_alley.rpy", line 170: Line with id yulia_saves_again_38788fc1 appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:170
+
+File "game/Scripts/night_alley.rpy", line 172: Line with id yulia_saves_again_679273df appears twice. The other line is game/Scripts/Prologue/night_alley.rpy:172
+
+File "game/Scripts/night_city.rpy", line 7: Line with id night_city_first_6a3d1d55 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:7
+
+File "game/Scripts/night_city.rpy", line 9: Line with id night_city_first_47a46d1a appears twice. The other line is game/Scripts/Prologue/night_city.rpy:9
+
+File "game/Scripts/night_city.rpy", line 11: Line with id night_city_first_879ff5c3 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:11
+
+File "game/Scripts/night_city.rpy", line 13: Line with id night_city_first_d91ae375 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:13
+
+File "game/Scripts/night_city.rpy", line 17: Line with id night_city_first_0ce4733a appears twice. The other line is game/Scripts/Prologue/night_city.rpy:17
+
+File "game/Scripts/night_city.rpy", line 19: Line with id night_city_first_c20a375a appears twice. The other line is game/Scripts/Prologue/night_city.rpy:19
+
+File "game/Scripts/night_city.rpy", line 21: Line with id night_city_first_9c2741b3 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:21
+
+File "game/Scripts/night_city.rpy", line 23: Line with id night_city_first_c5cf9f60 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:23
+
+File "game/Scripts/night_city.rpy", line 25: Line with id night_city_first_65a26391 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:25
+
+File "game/Scripts/night_city.rpy", line 27: Line with id night_city_first_89300e11 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:27
+
+File "game/Scripts/night_city.rpy", line 29: Line with id night_city_first_3fbe7514 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:29
+
+File "game/Scripts/night_city.rpy", line 31: Line with id night_city_first_cf7c129b appears twice. The other line is game/Scripts/Prologue/night_city.rpy:31
+
+File "game/Scripts/night_city.rpy", line 33: Line with id night_city_first_2fa5473c appears twice. The other line is game/Scripts/Prologue/night_city.rpy:33
+
+File "game/Scripts/night_city.rpy", line 35: Line with id night_city_first_826f0aa5 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:35
+
+File "game/Scripts/night_city.rpy", line 37: Line with id night_city_first_5a6c25fc appears twice. The other line is game/Scripts/Prologue/night_city.rpy:37
+
+File "game/Scripts/night_city.rpy", line 39: Line with id night_city_first_ba28b779 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:39
+
+File "game/Scripts/night_city.rpy", line 41: Line with id night_city_first_27904770 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:41
+
+File "game/Scripts/night_city.rpy", line 43: Line with id night_city_first_2c6bc71e appears twice. The other line is game/Scripts/Prologue/night_city.rpy:43
+
+File "game/Scripts/night_city.rpy", line 45: Line with id night_city_first_fdf87b40 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:45
+
+File "game/Scripts/night_city.rpy", line 47: Line with id night_city_first_73fe5c72 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:47
+
+File "game/Scripts/night_city.rpy", line 49: Line with id night_city_first_7130bffd appears twice. The other line is game/Scripts/Prologue/night_city.rpy:49
+
+File "game/Scripts/night_city.rpy", line 51: Line with id night_city_first_4cfe1b4f appears twice. The other line is game/Scripts/Prologue/night_city.rpy:51
+
+File "game/Scripts/night_city.rpy", line 53: Line with id night_city_first_3468f4ab appears twice. The other line is game/Scripts/Prologue/night_city.rpy:53
+
+File "game/Scripts/night_city.rpy", line 55: Line with id night_city_first_07b28c69 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:55
+
+File "game/Scripts/night_city.rpy", line 57: Line with id night_city_first_18bb2c59 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:57
+
+File "game/Scripts/night_city.rpy", line 59: Line with id night_city_first_3e125703 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:59
+
+File "game/Scripts/night_city.rpy", line 61: Line with id night_city_first_cb1f5ea3 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:61
+
+File "game/Scripts/night_city.rpy", line 63: Line with id night_city_first_2ce96793 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:63
+
+File "game/Scripts/night_city.rpy", line 65: Line with id night_city_first_4a2a7632 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:65
+
+File "game/Scripts/night_city.rpy", line 67: Line with id night_city_first_781f4b02 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:67
+
+File "game/Scripts/night_city.rpy", line 69: Line with id night_city_first_32b326b8 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:69
+
+File "game/Scripts/night_city.rpy", line 71: Line with id night_city_first_2b35c331 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:71
+
+File "game/Scripts/night_city.rpy", line 73: Line with id night_city_first_07105995 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:73
+
+File "game/Scripts/night_city.rpy", line 75: Line with id night_city_first_e1906daa appears twice. The other line is game/Scripts/Prologue/night_city.rpy:75
+
+File "game/Scripts/night_city.rpy", line 77: Line with id night_city_first_2528a752 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:77
+
+File "game/Scripts/night_city.rpy", line 79: Line with id night_city_first_554b5c7e appears twice. The other line is game/Scripts/Prologue/night_city.rpy:79
+
+File "game/Scripts/night_city.rpy", line 81: Line with id night_city_first_3bca785f appears twice. The other line is game/Scripts/Prologue/night_city.rpy:81
+
+File "game/Scripts/night_city.rpy", line 83: Line with id night_city_first_c161b8dd appears twice. The other line is game/Scripts/Prologue/night_city.rpy:83
+
+File "game/Scripts/night_city.rpy", line 85: Line with id night_city_first_5b8d9fa4 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:85
+
+File "game/Scripts/night_city.rpy", line 87: Line with id night_city_first_bf94dfde appears twice. The other line is game/Scripts/Prologue/night_city.rpy:87
+
+File "game/Scripts/night_city.rpy", line 89: Line with id night_city_first_91f72939 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:89
+
+File "game/Scripts/night_city.rpy", line 91: Line with id night_city_first_752e6ca9 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:91
+
+File "game/Scripts/night_city.rpy", line 93: Line with id night_city_first_0fc052fc appears twice. The other line is game/Scripts/Prologue/night_city.rpy:93
+
+File "game/Scripts/night_city.rpy", line 95: Line with id night_city_first_d6b98205 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:95
+
+File "game/Scripts/night_city.rpy", line 97: Line with id night_city_first_a20cefa7 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:97
+
+File "game/Scripts/night_city.rpy", line 99: Line with id night_city_first_6334056b appears twice. The other line is game/Scripts/Prologue/night_city.rpy:99
+
+File "game/Scripts/night_city.rpy", line 101: Line with id night_city_first_4f106c2b appears twice. The other line is game/Scripts/Prologue/night_city.rpy:101
+
+File "game/Scripts/night_city.rpy", line 103: Line with id night_city_first_df2bc368 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:103
+
+File "game/Scripts/night_city.rpy", line 105: Line with id night_city_first_1676b0f5 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:105
+
+File "game/Scripts/night_city.rpy", line 107: Line with id night_city_first_f7633aa5 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:107
+
+File "game/Scripts/night_city.rpy", line 109: Line with id night_city_first_110b69db appears twice. The other line is game/Scripts/Prologue/night_city.rpy:109
+
+File "game/Scripts/night_city.rpy", line 111: Line with id night_city_first_39e731ed appears twice. The other line is game/Scripts/Prologue/night_city.rpy:111
+
+File "game/Scripts/night_city.rpy", line 113: Line with id night_city_first_6d2db6ae appears twice. The other line is game/Scripts/Prologue/night_city.rpy:113
+
+File "game/Scripts/night_city.rpy", line 115: Line with id night_city_first_42910194 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:115
+
+File "game/Scripts/night_city.rpy", line 117: Line with id night_city_first_bfa855ed appears twice. The other line is game/Scripts/Prologue/night_city.rpy:117
+
+File "game/Scripts/night_city.rpy", line 119: Line with id night_city_first_fea08d43 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:119
+
+File "game/Scripts/night_city.rpy", line 121: Line with id night_city_first_25ed7909 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:121
+
+File "game/Scripts/night_city.rpy", line 123: Line with id night_city_first_d80c14af appears twice. The other line is game/Scripts/Prologue/night_city.rpy:123
+
+File "game/Scripts/night_city.rpy", line 125: Line with id night_city_first_a8354e20 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:125
+
+File "game/Scripts/night_city.rpy", line 129: Line with id night_city_first_712d9fbe appears twice. The other line is game/Scripts/Prologue/night_city.rpy:129
+
+File "game/Scripts/night_city.rpy", line 131: Line with id night_city_first_1c3eaf53 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:131
+
+File "game/Scripts/night_city.rpy", line 133: Line with id night_city_first_2117b0e0 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:133
+
+File "game/Scripts/night_city.rpy", line 135: Line with id night_city_first_888f1e79 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:135
+
+File "game/Scripts/night_city.rpy", line 137: Line with id night_city_first_751f6189 appears twice. The other line is game/Scripts/Prologue/night_city.rpy:137
+
+File "game/Scripts/office.rpy", line 7: Line with id office_first_69c6c290 appears twice. The other line is game/Scripts/Prologue/office.rpy:7
+
+File "game/Scripts/office.rpy", line 9: Line with id office_first_32f2d7a0 appears twice. The other line is game/Scripts/Prologue/office.rpy:9
+
+File "game/Scripts/office.rpy", line 11: Line with id office_first_0bf891f3 appears twice. The other line is game/Scripts/Prologue/office.rpy:11
+
+File "game/Scripts/office.rpy", line 13: Line with id office_first_08fea22c appears twice. The other line is game/Scripts/Prologue/office.rpy:13
+
+File "game/Scripts/office.rpy", line 15: Line with id office_first_3de338b5 appears twice. The other line is game/Scripts/Prologue/office.rpy:15
+
+File "game/Scripts/office.rpy", line 19: Line with id office_first_4b6df181 appears twice. The other line is game/Scripts/Prologue/office.rpy:19
+
+File "game/Scripts/office.rpy", line 25: Line with id office_first_f17be9d1 appears twice. The other line is game/Scripts/Prologue/office.rpy:25
+
+File "game/Scripts/office.rpy", line 27: Line with id office_first_126099ff appears twice. The other line is game/Scripts/Prologue/office.rpy:27
+
+File "game/Scripts/office.rpy", line 29: Line with id office_first_3c7ab05d appears twice. The other line is game/Scripts/Prologue/office.rpy:29
+
+File "game/Scripts/office.rpy", line 31: Line with id office_first_2d96e616 appears twice. The other line is game/Scripts/Prologue/office.rpy:31
+
+File "game/Scripts/office.rpy", line 33: Line with id office_first_822be853 appears twice. The other line is game/Scripts/Prologue/office.rpy:33
+
+File "game/Scripts/office.rpy", line 35: Line with id office_first_705fb8bc appears twice. The other line is game/Scripts/Prologue/office.rpy:35
+
+File "game/Scripts/office.rpy", line 37: Line with id office_first_ad203cae appears twice. The other line is game/Scripts/Prologue/office.rpy:37
+
+File "game/Scripts/office.rpy", line 39: Line with id office_first_51c2c17c appears twice. The other line is game/Scripts/Prologue/office.rpy:39
+
+File "game/Scripts/office.rpy", line 41: Line with id office_first_a8aa11bc appears twice. The other line is game/Scripts/Prologue/office.rpy:41
+
+File "game/Scripts/office.rpy", line 43: Line with id office_first_60b0956a appears twice. The other line is game/Scripts/Prologue/office.rpy:43
+
+File "game/Scripts/office.rpy", line 45: Line with id office_first_477762c8 appears twice. The other line is game/Scripts/Prologue/office.rpy:45
+
+File "game/Scripts/office.rpy", line 47: Line with id office_first_208126a2 appears twice. The other line is game/Scripts/Prologue/office.rpy:47
+
+File "game/Scripts/office.rpy", line 53: Line with id office_first_f49f12e3 appears twice. The other line is game/Scripts/Prologue/office.rpy:53
+
+File "game/Scripts/office.rpy", line 55: Line with id office_first_8c3bc422 appears twice. The other line is game/Scripts/Prologue/office.rpy:55
+
+File "game/Scripts/office.rpy", line 57: Line with id office_first_8894eb80 appears twice. The other line is game/Scripts/Prologue/office.rpy:57
+
+File "game/Scripts/office.rpy", line 59: Line with id office_first_64df3f94 appears twice. The other line is game/Scripts/Prologue/office.rpy:59
+
+File "game/Scripts/office.rpy", line 61: Line with id office_first_e01e2bb1 appears twice. The other line is game/Scripts/Prologue/office.rpy:61
+
+File "game/Scripts/office.rpy", line 63: Line with id office_first_da041eb8 appears twice. The other line is game/Scripts/Prologue/office.rpy:63
+
+File "game/Scripts/office.rpy", line 65: Line with id office_first_9e0a9e28 appears twice. The other line is game/Scripts/Prologue/office.rpy:65
+
+File "game/Scripts/office.rpy", line 69: Line with id office_first_69b23228 appears twice. The other line is game/Scripts/Prologue/office.rpy:69
+
+File "game/Scripts/office.rpy", line 71: Line with id office_first_4ab06f89 appears twice. The other line is game/Scripts/Prologue/office.rpy:71
+
+File "game/Scripts/office.rpy", line 73: Line with id office_first_1712f44d appears twice. The other line is game/Scripts/Prologue/office.rpy:73
+
+File "game/Scripts/office.rpy", line 75: Line with id office_first_572286e2 appears twice. The other line is game/Scripts/Prologue/office.rpy:75
+
+File "game/Scripts/office.rpy", line 79: Line with id office_first_c2b1ac5b appears twice. The other line is game/Scripts/Prologue/office.rpy:79
+
+File "game/Scripts/office.rpy", line 81: Line with id office_first_d3d2fb54 appears twice. The other line is game/Scripts/Prologue/office.rpy:81
+
+File "game/Scripts/office.rpy", line 83: Line with id office_first_50e0c7d8 appears twice. The other line is game/Scripts/Prologue/office.rpy:83
+
+File "game/Scripts/office.rpy", line 85: Line with id office_first_4a031d55 appears twice. The other line is game/Scripts/Prologue/office.rpy:85
+
+File "game/Scripts/office.rpy", line 89: Line with id office_first_db9a31c6 appears twice. The other line is game/Scripts/Prologue/office.rpy:89
+
+File "game/Scripts/office.rpy", line 91: Line with id office_first_58ac0de2 appears twice. The other line is game/Scripts/Prologue/office.rpy:91
+
+File "game/Scripts/office.rpy", line 93: Line with id office_first_ca22ece5 appears twice. The other line is game/Scripts/Prologue/office.rpy:93
+
+File "game/Scripts/office.rpy", line 95: Line with id office_first_1f05b9bf appears twice. The other line is game/Scripts/Prologue/office.rpy:95
+
+File "game/Scripts/office.rpy", line 97: Line with id office_first_999774fd appears twice. The other line is game/Scripts/Prologue/office.rpy:97
+
+File "game/Scripts/office.rpy", line 99: Line with id office_first_3c5f7982 appears twice. The other line is game/Scripts/Prologue/office.rpy:99
+
+File "game/Scripts/office.rpy", line 101: Line with id office_first_3c403653 appears twice. The other line is game/Scripts/Prologue/office.rpy:101
+
+File "game/Scripts/office.rpy", line 103: Line with id office_first_0c7fd11c appears twice. The other line is game/Scripts/Prologue/office.rpy:103
+
+File "game/Scripts/office.rpy", line 105: Line with id office_first_5f060d69 appears twice. The other line is game/Scripts/Prologue/office.rpy:105
+
+File "game/Scripts/office.rpy", line 107: Line with id office_first_837c8bc9 appears twice. The other line is game/Scripts/Prologue/office.rpy:107
+
+File "game/Scripts/office.rpy", line 109: Line with id office_first_1025fdbb appears twice. The other line is game/Scripts/Prologue/office.rpy:109
+
+File "game/Scripts/office.rpy", line 111: Line with id office_first_342c1b98 appears twice. The other line is game/Scripts/Prologue/office.rpy:111
+
+File "game/Scripts/office.rpy", line 113: Line with id office_first_8c9b07f1 appears twice. The other line is game/Scripts/Prologue/office.rpy:113
+
+File "game/Scripts/office.rpy", line 115: Line with id office_first_8d14c99e appears twice. The other line is game/Scripts/Prologue/office.rpy:115
+
+File "game/Scripts/office.rpy", line 119: Line with id office_first_fe34f21d appears twice. The other line is game/Scripts/Prologue/office.rpy:119
+
+File "game/Scripts/office.rpy", line 121: Line with id office_first_e3a275d0 appears twice. The other line is game/Scripts/Prologue/office.rpy:121
+
+File "game/Scripts/office.rpy", line 123: Line with id office_first_a7a9a0ee appears twice. The other line is game/Scripts/Prologue/office.rpy:123
+
+File "game/Scripts/office.rpy", line 135: Line with id office_first_final_5119d5d2 appears twice. The other line is game/Scripts/Prologue/office.rpy:135
+
+File "game/Scripts/office.rpy", line 137: Line with id office_first_final_9a7c8ca5 appears twice. The other line is game/Scripts/Prologue/office.rpy:137
+
+File "game/Scripts/office.rpy", line 139: Line with id office_first_final_71f17006 appears twice. The other line is game/Scripts/Prologue/office.rpy:139
+
+File "game/Scripts/office.rpy", line 141: Line with id office_first_final_6f9bca55 appears twice. The other line is game/Scripts/Prologue/office.rpy:141
+
+File "game/Scripts/office.rpy", line 143: Line with id office_first_final_51697ffd appears twice. The other line is game/Scripts/Prologue/office.rpy:143
+
+File "game/Scripts/office.rpy", line 145: Line with id office_first_final_296f57ca appears twice. The other line is game/Scripts/Prologue/office.rpy:145
+
+File "game/Scripts/office.rpy", line 149: Line with id office_first_final_ad231420 appears twice. The other line is game/Scripts/Prologue/office.rpy:149
+
+File "game/Scripts/office.rpy", line 151: Line with id office_first_final_25f7abbc appears twice. The other line is game/Scripts/Prologue/office.rpy:151
+
+File "game/Scripts/office.rpy", line 153: Line with id office_first_final_eb31bb73 appears twice. The other line is game/Scripts/Prologue/office.rpy:153
+
+File "game/Scripts/office.rpy", line 155: Line with id office_first_final_340e0d00 appears twice. The other line is game/Scripts/Prologue/office.rpy:155
+
+File "game/Scripts/office.rpy", line 157: Line with id office_first_final_5ce2ddd6 appears twice. The other line is game/Scripts/Prologue/office.rpy:157
+
+File "game/Scripts/office.rpy", line 159: Line with id office_first_final_77e75ca5 appears twice. The other line is game/Scripts/Prologue/office.rpy:159
+
+File "game/Scripts/office.rpy", line 161: Line with id office_first_final_3c1c8fbf appears twice. The other line is game/Scripts/Prologue/office.rpy:161
+
+File "game/Scripts/office.rpy", line 163: Line with id office_first_final_732e921f appears twice. The other line is game/Scripts/Prologue/office.rpy:163
+
+File "game/Scripts/office.rpy", line 165: Line with id office_first_final_7e119f8f appears twice. The other line is game/Scripts/Prologue/office.rpy:165
+
+File "game/Scripts/office.rpy", line 167: Line with id office_first_final_0618e993 appears twice. The other line is game/Scripts/Prologue/office.rpy:167
+
+File "game/Scripts/office.rpy", line 181: Line with id talk_truth_59d2bda7 appears twice. The other line is game/Scripts/Prologue/office.rpy:181
+
+File "game/Scripts/office.rpy", line 183: Line with id talk_truth_d80cb2c3 appears twice. The other line is game/Scripts/Prologue/office.rpy:183
+
+File "game/Scripts/office.rpy", line 185: Line with id talk_truth_f759fe3d appears twice. The other line is game/Scripts/Prologue/office.rpy:185
+
+File "game/Scripts/office.rpy", line 187: Line with id talk_truth_87713d6e appears twice. The other line is game/Scripts/Prologue/office.rpy:187
+
+File "game/Scripts/office.rpy", line 189: Line with id talk_truth_c445b12b appears twice. The other line is game/Scripts/Prologue/office.rpy:189
+
+File "game/Scripts/office.rpy", line 191: Line with id talk_truth_a20cefa7 appears twice. The other line is game/Scripts/Prologue/office.rpy:191
+
+File "game/Scripts/office.rpy", line 199: Line with id talk_false_b36a49db appears twice. The other line is game/Scripts/Prologue/office.rpy:199
+
+File "game/Scripts/office.rpy", line 201: Line with id talk_false_5cdb87cc appears twice. The other line is game/Scripts/Prologue/office.rpy:201
+
+File "game/Scripts/office.rpy", line 213: Line with id office_second_f2a81c02 appears twice. The other line is game/Scripts/Prologue/office.rpy:213
+
+File "game/Scripts/office.rpy", line 217: Line with id office_second_cb5175b8 appears twice. The other line is game/Scripts/Prologue/office.rpy:217
+
+File "game/Scripts/office.rpy", line 219: Line with id office_second_7304e2e7 appears twice. The other line is game/Scripts/Prologue/office.rpy:219
+
+File "game/Scripts/office.rpy", line 221: Line with id office_second_d9657cce appears twice. The other line is game/Scripts/Prologue/office.rpy:221
+
+File "game/Scripts/office.rpy", line 228: Line with id office_second_43c8d9c0 appears twice. The other line is game/Scripts/Prologue/office.rpy:228
+
+File "game/Scripts/office.rpy", line 230: Line with id office_second_78359754 appears twice. The other line is game/Scripts/Prologue/office.rpy:230
+
+File "game/Scripts/office.rpy", line 232: Line with id office_second_9a7c4f32 appears twice. The other line is game/Scripts/Prologue/office.rpy:232
+
+File "game/Scripts/office.rpy", line 234: Line with id office_second_a4f27cec appears twice. The other line is game/Scripts/Prologue/office.rpy:234
+
+File "game/Scripts/office.rpy", line 239: Line with id office_second_d339bbe3 appears twice. The other line is game/Scripts/Prologue/office.rpy:239
+
+File "game/Scripts/office.rpy", line 241: Line with id office_second_6ae023fb appears twice. The other line is game/Scripts/Prologue/office.rpy:241
+
+File "game/Scripts/office.rpy", line 243: Line with id office_second_1a1252c4 appears twice. The other line is game/Scripts/Prologue/office.rpy:243
+
+File "game/Scripts/office.rpy", line 245: Line with id office_second_9ac17e19 appears twice. The other line is game/Scripts/Prologue/office.rpy:245
+
+File "game/Scripts/office.rpy", line 247: Line with id office_second_a20cefa7 appears twice. The other line is game/Scripts/Prologue/office.rpy:247
+
+File "game/Scripts/office.rpy", line 249: Line with id office_second_bc59daeb appears twice. The other line is game/Scripts/Prologue/office.rpy:249
+
+File "game/Scripts/office.rpy", line 251: Line with id office_second_d14728ea appears twice. The other line is game/Scripts/Prologue/office.rpy:251
+
+File "game/Scripts/office.rpy", line 255: Line with id office_second_5336f9d1 appears twice. The other line is game/Scripts/Prologue/office.rpy:255
+
+File "game/Scripts/office.rpy", line 257: Line with id office_second_f0813242 appears twice. The other line is game/Scripts/Prologue/office.rpy:257
+
+File "game/Scripts/office.rpy", line 259: Line with id office_second_4731e2dc appears twice. The other line is game/Scripts/Prologue/office.rpy:259
+
+File "game/Scripts/office.rpy", line 261: Line with id office_second_b1377ad3 appears twice. The other line is game/Scripts/Prologue/office.rpy:261
+
+File "game/Scripts/office.rpy", line 265: Line with id office_second_eed37815 appears twice. The other line is game/Scripts/Prologue/office.rpy:265
+
+File "game/Scripts/office.rpy", line 267: Line with id office_second_2697fc01 appears twice. The other line is game/Scripts/Prologue/office.rpy:267
+
+File "game/Scripts/office.rpy", line 269: Line with id office_second_b94b56e8 appears twice. The other line is game/Scripts/Prologue/office.rpy:269
+
+File "game/Scripts/office.rpy", line 271: Line with id office_second_cc5d3546 appears twice. The other line is game/Scripts/Prologue/office.rpy:271
+
+File "game/Scripts/office.rpy", line 273: Line with id office_second_41369bcf appears twice. The other line is game/Scripts/Prologue/office.rpy:273
+
+File "game/Scripts/office.rpy", line 275: Line with id office_second_d4eccb47 appears twice. The other line is game/Scripts/Prologue/office.rpy:275
+
+File "game/Scripts/office.rpy", line 277: Line with id office_second_7cb7876c appears twice. The other line is game/Scripts/Prologue/office.rpy:277
+
+File "game/Scripts/office.rpy", line 279: Line with id office_second_5d1a59cc appears twice. The other line is game/Scripts/Prologue/office.rpy:279
+
+File "game/Scripts/office.rpy", line 295: Line with id yulia_saves_11965c00 appears twice. The other line is game/Scripts/Prologue/office.rpy:295
+
+File "game/Scripts/office.rpy", line 297: Line with id yulia_saves_ff3902af appears twice. The other line is game/Scripts/Prologue/office.rpy:297
+
+File "game/Scripts/office.rpy", line 299: Line with id yulia_saves_0a36078d appears twice. The other line is game/Scripts/Prologue/office.rpy:299
+
+File "game/Scripts/office.rpy", line 301: Line with id yulia_saves_56c3c811 appears twice. The other line is game/Scripts/Prologue/office.rpy:301
+
+File "game/Scripts/office.rpy", line 314: Line with id glasha_saves_herself_dbc200e1 appears twice. The other line is game/Scripts/Prologue/office.rpy:314
+
+File "game/Scripts/office.rpy", line 316: Line with id glasha_saves_herself_4240bdc0 appears twice. The other line is game/Scripts/Prologue/office.rpy:316
+
+File "game/Scripts/office.rpy", line 318: Line with id glasha_saves_herself_8c7c01b0 appears twice. The other line is game/Scripts/Prologue/office.rpy:318
+
+File "game/Scripts/office.rpy", line 320: Line with id glasha_saves_herself_2ba9eaec appears twice. The other line is game/Scripts/Prologue/office.rpy:320
+
+File "game/Scripts/office.rpy", line 322: Line with id glasha_saves_herself_3492548b appears twice. The other line is game/Scripts/Prologue/office.rpy:322
+
+File "game/Scripts/office.rpy", line 324: Line with id glasha_saves_herself_e7d05b29 appears twice. The other line is game/Scripts/Prologue/office.rpy:324
+
+File "game/Scripts/office.rpy", line 326: Line with id glasha_saves_herself_8ecb27d9 appears twice. The other line is game/Scripts/Prologue/office.rpy:326
+
+File "game/Scripts/office.rpy", line 328: Line with id glasha_saves_herself_722c64de appears twice. The other line is game/Scripts/Prologue/office.rpy:328
+
+File "game/Scripts/office.rpy", line 330: Line with id glasha_saves_herself_c92f2afa appears twice. The other line is game/Scripts/Prologue/office.rpy:330
+
+File "game/Scripts/office.rpy", line 332: Line with id glasha_saves_herself_b2edc46c appears twice. The other line is game/Scripts/Prologue/office.rpy:332
+
+File "game/Scripts/office.rpy", line 334: Line with id glasha_saves_herself_269968cd appears twice. The other line is game/Scripts/Prologue/office.rpy:334
+
+File "game/Scripts/office.rpy", line 338: Line with id glasha_saves_herself_0abc94bf appears twice. The other line is game/Scripts/Prologue/office.rpy:338
+
+File "game/Scripts/office.rpy", line 340: Line with id glasha_saves_herself_139f20fd appears twice. The other line is game/Scripts/Prologue/office.rpy:340
+
+File "game/Scripts/office.rpy", line 354: Line with id office_final_f70e8742 appears twice. The other line is game/Scripts/Prologue/office.rpy:354
+
+File "game/Scripts/office.rpy", line 356: Line with id office_final_c5d73453 appears twice. The other line is game/Scripts/Prologue/office.rpy:356
+
+File "game/Scripts/office.rpy", line 359: Line with id office_final_d7ddbe7f appears twice. The other line is game/Scripts/Prologue/office.rpy:359
+
+File "game/Scripts/office.rpy", line 361: Line with id office_final_d74bb543 appears twice. The other line is game/Scripts/Prologue/office.rpy:361
+
+File "game/Scripts/office.rpy", line 363: Line with id office_final_9822eef3 appears twice. The other line is game/Scripts/Prologue/office.rpy:363
+
+File "game/Scripts/office.rpy", line 365: Line with id office_final_05f4a332 appears twice. The other line is game/Scripts/Prologue/office.rpy:365
+
+File "game/Scripts/office.rpy", line 367: Line with id office_final_e00b65f0 appears twice. The other line is game/Scripts/Prologue/office.rpy:367
+
+File "game/Scripts/office.rpy", line 369: Line with id office_final_080e49d3 appears twice. The other line is game/Scripts/Prologue/office.rpy:369
+
+File "game/Scripts/office.rpy", line 371: Line with id office_final_24766a44 appears twice. The other line is game/Scripts/Prologue/office.rpy:371
+
+File "game/Scripts/office.rpy", line 373: Line with id office_final_7a19c788 appears twice. The other line is game/Scripts/Prologue/office.rpy:373
+
+File "game/Scripts/office.rpy", line 377: Line with id office_final_b661980f appears twice. The other line is game/Scripts/Prologue/office.rpy:377
+
+File "game/Scripts/office.rpy", line 389: Line with id office_third_ef90aa55 appears twice. The other line is game/Scripts/Prologue/office.rpy:389
+
+File "game/Scripts/office.rpy", line 391: Line with id office_third_fd4b8eec appears twice. The other line is game/Scripts/Prologue/office.rpy:391
+
+File "game/Scripts/office.rpy", line 393: Line with id office_third_d7a90f83 appears twice. The other line is game/Scripts/Prologue/office.rpy:393
+
+File "game/Scripts/office.rpy", line 395: Line with id office_third_7bcf58f7 appears twice. The other line is game/Scripts/Prologue/office.rpy:395
+
+File "game/Scripts/office.rpy", line 399: Line with id office_third_d1646671 appears twice. The other line is game/Scripts/Prologue/office.rpy:399
+
+File "game/Scripts/office.rpy", line 403: Line with id office_third_888fe882 appears twice. The other line is game/Scripts/Prologue/office.rpy:403
+
+File "game/Scripts/office.rpy", line 405: Line with id office_third_6ddde166 appears twice. The other line is game/Scripts/Prologue/office.rpy:405
+
+File "game/Scripts/office.rpy", line 407: Line with id office_third_c5ebc396 appears twice. The other line is game/Scripts/Prologue/office.rpy:407
+
+File "game/Scripts/office.rpy", line 409: Line with id office_third_4ce593fd appears twice. The other line is game/Scripts/Prologue/office.rpy:409
+
+File "game/Scripts/office.rpy", line 411: Line with id office_third_9498747d appears twice. The other line is game/Scripts/Prologue/office.rpy:411
+
+File "game/Scripts/office.rpy", line 413: Line with id office_third_b5e55188 appears twice. The other line is game/Scripts/Prologue/office.rpy:413
+
+File "game/Scripts/office.rpy", line 415: Line with id office_third_7ee5e198 appears twice. The other line is game/Scripts/Prologue/office.rpy:415
+
+File "game/Scripts/office.rpy", line 417: Line with id office_third_6b4799ae appears twice. The other line is game/Scripts/Prologue/office.rpy:417
+
+File "game/Scripts/office.rpy", line 419: Line with id office_third_24680e4b appears twice. The other line is game/Scripts/Prologue/office.rpy:419
+
+File "game/Scripts/office.rpy", line 421: Line with id office_third_aaedfc37 appears twice. The other line is game/Scripts/Prologue/office.rpy:421
+
+File "game/Scripts/office.rpy", line 423: Line with id office_third_38c71382 appears twice. The other line is game/Scripts/Prologue/office.rpy:423
+
+File "game/Scripts/office.rpy", line 425: Line with id office_third_3c9f4a33 appears twice. The other line is game/Scripts/Prologue/office.rpy:425
+
+File "game/Scripts/office.rpy", line 427: Line with id office_third_0b15e4c9 appears twice. The other line is game/Scripts/Prologue/office.rpy:427
+
+File "game/Scripts/office.rpy", line 429: Line with id office_third_72d902f0 appears twice. The other line is game/Scripts/Prologue/office.rpy:429
+
+File "game/Scripts/office.rpy", line 431: Line with id office_third_847b7c0a appears twice. The other line is game/Scripts/Prologue/office.rpy:431
+
+File "game/Scripts/office.rpy", line 433: Line with id office_third_4ba97e81 appears twice. The other line is game/Scripts/Prologue/office.rpy:433
+
+File "game/Scripts/office.rpy", line 435: Line with id office_third_bcadc14e appears twice. The other line is game/Scripts/Prologue/office.rpy:435
+
+File "game/Scripts/office.rpy", line 437: Line with id office_third_f6d1021a appears twice. The other line is game/Scripts/Prologue/office.rpy:437
+
+File "game/Scripts/red_room.rpy", line 7: Line with id red_room_first_6c48ff33 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:7
+
+File "game/Scripts/red_room.rpy", line 9: Line with id red_room_first_4d2f3941 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:9
+
+File "game/Scripts/red_room.rpy", line 11: Line with id red_room_first_a3b1c777 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:11
+
+File "game/Scripts/red_room.rpy", line 13: Line with id red_room_first_a85249e8 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:13
+
+File "game/Scripts/red_room.rpy", line 15: Line with id red_room_first_b2a9cd5f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:15
+
+File "game/Scripts/red_room.rpy", line 17: Line with id red_room_first_877e894f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:17
+
+File "game/Scripts/red_room.rpy", line 22: Line with id red_room_first_f0a7e044 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:22
+
+File "game/Scripts/red_room.rpy", line 24: Line with id red_room_first_d58128aa appears twice. The other line is game/Scripts/Prologue/red_room.rpy:24
+
+File "game/Scripts/red_room.rpy", line 26: Line with id red_room_first_9913c399 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:26
+
+File "game/Scripts/red_room.rpy", line 28: Line with id red_room_first_9a203f02 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:28
+
+File "game/Scripts/red_room.rpy", line 30: Line with id red_room_first_a8f4520e appears twice. The other line is game/Scripts/Prologue/red_room.rpy:30
+
+File "game/Scripts/red_room.rpy", line 32: Line with id red_room_first_b06aecf4 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:32
+
+File "game/Scripts/red_room.rpy", line 34: Line with id red_room_first_3bc63451 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:34
+
+File "game/Scripts/red_room.rpy", line 36: Line with id red_room_first_6fc6c12f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:36
+
+File "game/Scripts/red_room.rpy", line 38: Line with id red_room_first_7e274501 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:38
+
+File "game/Scripts/red_room.rpy", line 40: Line with id red_room_first_01068021 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:40
+
+File "game/Scripts/red_room.rpy", line 42: Line with id red_room_first_97a279c4 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:42
+
+File "game/Scripts/red_room.rpy", line 44: Line with id red_room_first_ab0f274c appears twice. The other line is game/Scripts/Prologue/red_room.rpy:44
+
+File "game/Scripts/red_room.rpy", line 46: Line with id red_room_first_9b8ab351 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:46
+
+File "game/Scripts/red_room.rpy", line 48: Line with id red_room_first_c8bb6784 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:48
+
+File "game/Scripts/red_room.rpy", line 50: Line with id red_room_first_a32d6895 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:50
+
+File "game/Scripts/red_room.rpy", line 52: Line with id red_room_first_84955ab9 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:52
+
+File "game/Scripts/red_room.rpy", line 54: Line with id red_room_first_423b4cc4 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:54
+
+File "game/Scripts/red_room.rpy", line 56: Line with id red_room_first_63acc34e appears twice. The other line is game/Scripts/Prologue/red_room.rpy:56
+
+File "game/Scripts/red_room.rpy", line 58: Line with id red_room_first_bb39f427 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:58
+
+File "game/Scripts/red_room.rpy", line 60: Line with id red_room_first_b18ecf1f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:60
+
+File "game/Scripts/red_room.rpy", line 67: Line with id red_room_first_2ddd8141 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:67
+
+File "game/Scripts/red_room.rpy", line 79: Line with id red_room_second_821322b2 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:79
+
+File "game/Scripts/red_room.rpy", line 83: Line with id red_room_second_9fef08ab appears twice. The other line is game/Scripts/Prologue/red_room.rpy:83
+
+File "game/Scripts/red_room.rpy", line 85: Line with id red_room_second_42910194 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:85
+
+File "game/Scripts/red_room.rpy", line 87: Line with id red_room_second_072f098f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:87
+
+File "game/Scripts/red_room.rpy", line 89: Line with id red_room_second_a732f828 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:89
+
+File "game/Scripts/red_room.rpy", line 91: Line with id red_room_second_fd9e609d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:91
+
+File "game/Scripts/red_room.rpy", line 93: Line with id red_room_second_8d75f824 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:93
+
+File "game/Scripts/red_room.rpy", line 95: Line with id red_room_second_1a739620 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:95
+
+File "game/Scripts/red_room.rpy", line 97: Line with id red_room_second_9d8b57c6 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:97
+
+File "game/Scripts/red_room.rpy", line 99: Line with id red_room_second_95167b74 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:99
+
+File "game/Scripts/red_room.rpy", line 101: Line with id red_room_second_dcc18f12 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:101
+
+File "game/Scripts/red_room.rpy", line 103: Line with id red_room_second_990328d1 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:103
+
+File "game/Scripts/red_room.rpy", line 105: Line with id red_room_second_77732053 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:105
+
+File "game/Scripts/red_room.rpy", line 107: Line with id red_room_second_bc5d9a20 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:107
+
+File "game/Scripts/red_room.rpy", line 109: Line with id red_room_second_6bcd1e02 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:109
+
+File "game/Scripts/red_room.rpy", line 111: Line with id red_room_second_8730b23c appears twice. The other line is game/Scripts/Prologue/red_room.rpy:111
+
+File "game/Scripts/red_room.rpy", line 113: Line with id red_room_second_d887a5a4 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:113
+
+File "game/Scripts/red_room.rpy", line 115: Line with id red_room_second_d19393ab appears twice. The other line is game/Scripts/Prologue/red_room.rpy:115
+
+File "game/Scripts/red_room.rpy", line 117: Line with id red_room_second_87dcf566 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:117
+
+File "game/Scripts/red_room.rpy", line 119: Line with id red_room_second_174892db appears twice. The other line is game/Scripts/Prologue/red_room.rpy:119
+
+File "game/Scripts/red_room.rpy", line 121: Line with id red_room_second_ca0fa80a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:121
+
+File "game/Scripts/red_room.rpy", line 128: Line with id red_room_second_f6487141 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:128
+
+File "game/Scripts/red_room.rpy", line 130: Line with id red_room_second_f0c3e9f5 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:130
+
+File "game/Scripts/red_room.rpy", line 132: Line with id red_room_second_011251b3 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:132
+
+File "game/Scripts/red_room.rpy", line 134: Line with id red_room_second_baaa6f77 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:134
+
+File "game/Scripts/red_room.rpy", line 136: Line with id red_room_second_a5b3713d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:136
+
+File "game/Scripts/red_room.rpy", line 138: Line with id red_room_second_5eaf3864 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:138
+
+File "game/Scripts/red_room.rpy", line 140: Line with id red_room_second_daab5ff1 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:140
+
+File "game/Scripts/red_room.rpy", line 142: Line with id red_room_second_0530d3dd appears twice. The other line is game/Scripts/Prologue/red_room.rpy:142
+
+File "game/Scripts/red_room.rpy", line 149: Line with id red_room_second_d3ff8cc7 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:149
+
+File "game/Scripts/red_room.rpy", line 151: Line with id red_room_second_63fe6c43 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:151
+
+File "game/Scripts/red_room.rpy", line 153: Line with id red_room_second_9b34ccfa appears twice. The other line is game/Scripts/Prologue/red_room.rpy:153
+
+File "game/Scripts/red_room.rpy", line 155: Line with id red_room_second_667a6c9d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:155
+
+File "game/Scripts/red_room.rpy", line 157: Line with id red_room_second_e4df01a2 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:157
+
+File "game/Scripts/red_room.rpy", line 159: Line with id red_room_second_c890bf68 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:159
+
+File "game/Scripts/red_room.rpy", line 161: Line with id red_room_second_5dbdce50 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:161
+
+File "game/Scripts/red_room.rpy", line 163: Line with id red_room_second_6ac05e29 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:163
+
+File "game/Scripts/red_room.rpy", line 165: Line with id red_room_second_65b0888a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:165
+
+File "game/Scripts/red_room.rpy", line 167: Line with id red_room_second_606b569b appears twice. The other line is game/Scripts/Prologue/red_room.rpy:167
+
+File "game/Scripts/red_room.rpy", line 169: Line with id red_room_second_0cd94f2f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:169
+
+File "game/Scripts/red_room.rpy", line 171: Line with id red_room_second_5d80935a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:171
+
+File "game/Scripts/red_room.rpy", line 173: Line with id red_room_second_42b4caeb appears twice. The other line is game/Scripts/Prologue/red_room.rpy:173
+
+File "game/Scripts/red_room.rpy", line 175: Line with id red_room_second_7800f0f1 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:175
+
+File "game/Scripts/red_room.rpy", line 177: Line with id red_room_second_607541a2 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:177
+
+File "game/Scripts/red_room.rpy", line 179: Line with id red_room_second_6d1137f2 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:179
+
+File "game/Scripts/red_room.rpy", line 181: Line with id red_room_second_09db3d37 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:181
+
+File "game/Scripts/red_room.rpy", line 183: Line with id red_room_second_3f69e021 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:183
+
+File "game/Scripts/red_room.rpy", line 185: Line with id red_room_second_5a101e28 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:185
+
+File "game/Scripts/red_room.rpy", line 187: Line with id red_room_second_45efa38e appears twice. The other line is game/Scripts/Prologue/red_room.rpy:187
+
+File "game/Scripts/red_room.rpy", line 189: Line with id red_room_second_4f9cfa7b appears twice. The other line is game/Scripts/Prologue/red_room.rpy:189
+
+File "game/Scripts/red_room.rpy", line 191: Line with id red_room_second_c4576882 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:191
+
+File "game/Scripts/red_room.rpy", line 193: Line with id red_room_second_1beeea7b appears twice. The other line is game/Scripts/Prologue/red_room.rpy:193
+
+File "game/Scripts/red_room.rpy", line 195: Line with id red_room_second_c176303d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:195
+
+File "game/Scripts/red_room.rpy", line 197: Line with id red_room_second_5e54f49d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:197
+
+File "game/Scripts/red_room.rpy", line 199: Line with id red_room_second_5cfe1631 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:199
+
+File "game/Scripts/red_room.rpy", line 203: Line with id red_room_second_3e9a31f0 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:203
+
+File "game/Scripts/red_room.rpy", line 207: Line with id red_room_second_7bd1e194 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:207
+
+File "game/Scripts/red_room.rpy", line 221: Line with id red_room_third_0b9a648d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:221
+
+File "game/Scripts/red_room.rpy", line 223: Line with id red_room_third_8c6e9c4a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:225
+
+File "game/Scripts/red_room.rpy", line 225: Line with id red_room_third_1af8a0de appears twice. The other line is game/Scripts/Prologue/red_room.rpy:227
+
+File "game/Scripts/red_room.rpy", line 227: Line with id red_room_third_a8621a28 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:229
+
+File "game/Scripts/red_room.rpy", line 229: Line with id red_room_third_32cc42d0 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:231
+
+File "game/Scripts/red_room.rpy", line 231: Line with id red_room_third_5d9fb8d0 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:233
+
+File "game/Scripts/red_room.rpy", line 233: Line with id red_room_third_2d62e758 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:235
+
+File "game/Scripts/red_room.rpy", line 235: Line with id red_room_third_173f2917 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:247
+
+File "game/Scripts/red_room.rpy", line 237: Line with id red_room_third_32e529c2 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:249
+
+File "game/Scripts/red_room.rpy", line 239: Line with id red_room_third_705dfed4 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:251
+
+File "game/Scripts/red_room.rpy", line 241: Line with id red_room_third_1863e1f7 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:253
+
+File "game/Scripts/red_room.rpy", line 243: Line with id red_room_third_b458205a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:255
+
+File "game/Scripts/red_room.rpy", line 245: Line with id red_room_third_bdf81c27 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:257
+
+File "game/Scripts/red_room.rpy", line 247: Line with id red_room_third_b17436b2 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:259
+
+File "game/Scripts/red_room.rpy", line 249: Line with id red_room_third_7f2155f5 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:261
+
+File "game/Scripts/red_room.rpy", line 251: Line with id red_room_third_f463a35d appears twice. The other line is game/Scripts/Prologue/red_room.rpy:263
+
+File "game/Scripts/red_room.rpy", line 253: Line with id red_room_third_100d8159 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:265
+
+File "game/Scripts/red_room.rpy", line 255: Line with id red_room_third_39db4331 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:267
+
+File "game/Scripts/red_room.rpy", line 257: Line with id red_room_third_fb9c5489 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:269
+
+File "game/Scripts/red_room.rpy", line 259: Line with id red_room_third_5b3027c8 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:271
+
+File "game/Scripts/red_room.rpy", line 261: Line with id red_room_third_5545befd appears twice. The other line is game/Scripts/Prologue/red_room.rpy:273
+
+File "game/Scripts/red_room.rpy", line 263: Line with id red_room_third_7253ab67 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:275
+
+File "game/Scripts/red_room.rpy", line 265: Line with id red_room_third_f86baa4a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:277
+
+File "game/Scripts/red_room.rpy", line 267: Line with id red_room_third_9c9ad387 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:279
+
+File "game/Scripts/red_room.rpy", line 269: Line with id red_room_third_fc9e94ab appears twice. The other line is game/Scripts/Prologue/red_room.rpy:281
+
+File "game/Scripts/red_room.rpy", line 271: Line with id red_room_third_b1ead9ee appears twice. The other line is game/Scripts/Prologue/red_room.rpy:283
+
+File "game/Scripts/red_room.rpy", line 273: Line with id red_room_third_7ae8adb8 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:285
+
+File "game/Scripts/red_room.rpy", line 275: Line with id red_room_third_ebc1b82f appears twice. The other line is game/Scripts/Prologue/red_room.rpy:287
+
+File "game/Scripts/red_room.rpy", line 277: Line with id red_room_third_b9101bce appears twice. The other line is game/Scripts/Prologue/red_room.rpy:289
+
+File "game/Scripts/red_room.rpy", line 279: Line with id red_room_third_738e48ac appears twice. The other line is game/Scripts/Prologue/red_room.rpy:291
+
+File "game/Scripts/red_room.rpy", line 281: Line with id red_room_third_0d136776 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:293
+
+File "game/Scripts/red_room.rpy", line 283: Line with id red_room_third_640b62ca appears twice. The other line is game/Scripts/Prologue/red_room.rpy:295
+
+File "game/Scripts/red_room.rpy", line 285: Line with id red_room_third_5af10359 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:297
+
+File "game/Scripts/red_room.rpy", line 287: Line with id red_room_third_4591a117 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:299
+
+File "game/Scripts/red_room.rpy", line 289: Line with id red_room_third_3820771a appears twice. The other line is game/Scripts/Prologue/red_room.rpy:301
+
+File "game/Scripts/red_room.rpy", line 291: Line with id red_room_third_68b317de appears twice. The other line is game/Scripts/Prologue/red_room.rpy:303
+
+File "game/Scripts/red_room.rpy", line 293: Line with id red_room_third_8f3b293b appears twice. The other line is game/Scripts/Prologue/red_room.rpy:305
+
+File "game/Scripts/red_room.rpy", line 297: Line with id red_room_third_255f05e4 appears twice. The other line is game/Scripts/Prologue/red_room.rpy:309
+
+File "game/Scripts/street.rpy", line 7: Line with id street_first_bbab18e9 appears twice. The other line is game/Scripts/Prologue/street.rpy:7
+
+File "game/Scripts/street.rpy", line 9: Line with id street_first_ad699698 appears twice. The other line is game/Scripts/Prologue/street.rpy:9
+
+File "game/Scripts/street.rpy", line 11: Line with id street_first_0876620b appears twice. The other line is game/Scripts/Prologue/street.rpy:11
+
+File "game/Scripts/street.rpy", line 13: Line with id street_first_5f9f38d3 appears twice. The other line is game/Scripts/Prologue/street.rpy:13
+
+File "game/Scripts/street.rpy", line 15: Line with id street_first_624210df appears twice. The other line is game/Scripts/Prologue/street.rpy:15
+
+File "game/Scripts/street.rpy", line 20: Line with id street_first_a3c40f05 appears twice. The other line is game/Scripts/Prologue/street.rpy:20
+
+File "game/Scripts/street.rpy", line 22: Line with id street_first_520f05cc appears twice. The other line is game/Scripts/Prologue/street.rpy:22
+
+File "game/Scripts/street.rpy", line 24: Line with id street_first_3343d693 appears twice. The other line is game/Scripts/Prologue/street.rpy:24
+
+File "game/Scripts/street.rpy", line 26: Line with id street_first_43ae3545 appears twice. The other line is game/Scripts/Prologue/street.rpy:26
+
+File "game/Scripts/street.rpy", line 28: Line with id street_first_a55d04b3 appears twice. The other line is game/Scripts/Prologue/street.rpy:28
+
+File "game/Scripts/street.rpy", line 30: Line with id street_first_b5617c5e appears twice. The other line is game/Scripts/Prologue/street.rpy:30
+
+File "game/Scripts/street.rpy", line 32: Line with id street_first_2f491bd8 appears twice. The other line is game/Scripts/Prologue/street.rpy:32
+
+File "game/Scripts/street.rpy", line 34: Line with id street_first_cc5b5021 appears twice. The other line is game/Scripts/Prologue/street.rpy:34
+
+File "game/Scripts/street.rpy", line 38: Line with id street_first_b9ed0ea8 appears twice. The other line is game/Scripts/Prologue/street.rpy:38
+
+File "game/Scripts/street.rpy", line 40: Line with id street_first_8fc872c9 appears twice. The other line is game/Scripts/Prologue/street.rpy:40
+
+File "game/Scripts/street.rpy", line 42: Line with id street_first_22cb4120 appears twice. The other line is game/Scripts/Prologue/street.rpy:42
+
+File "game/Scripts/street.rpy", line 44: Line with id street_first_a753dddf appears twice. The other line is game/Scripts/Prologue/street.rpy:44
+
+File "game/Scripts/yulia_room.rpy", line 9: Line with id yulia_room_first_7c02ab36 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:9
+
+File "game/Scripts/yulia_room.rpy", line 11: Line with id yulia_room_first_6939db1d appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:11
+
+File "game/Scripts/yulia_room.rpy", line 16: Line with id yulia_room_first_f374a92b appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:16
+
+File "game/Scripts/yulia_room.rpy", line 18: Line with id yulia_room_first_2fc1bc53 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:18
+
+File "game/Scripts/yulia_room.rpy", line 20: Line with id yulia_room_first_093f801f appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:20
+
+File "game/Scripts/yulia_room.rpy", line 22: Line with id yulia_room_first_88a75580 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:22
+
+File "game/Scripts/yulia_room.rpy", line 24: Line with id yulia_room_first_3a539ec1 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:24
+
+File "game/Scripts/yulia_room.rpy", line 26: Line with id yulia_room_first_3679a11d appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:26
+
+File "game/Scripts/yulia_room.rpy", line 28: Line with id yulia_room_first_bdc635aa appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:28
+
+File "game/Scripts/yulia_room.rpy", line 30: Line with id yulia_room_first_e35e288d appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:30
+
+File "game/Scripts/yulia_room.rpy", line 32: Line with id yulia_room_first_5e93502b appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:32
+
+File "game/Scripts/yulia_room.rpy", line 38: Line with id yulia_room_first_a2fbd2bc appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:38
+
+File "game/Scripts/yulia_room.rpy", line 40: Line with id yulia_room_first_5a76b2f5 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:40
+
+File "game/Scripts/yulia_room.rpy", line 42: Line with id yulia_room_first_816ca7d1 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:42
+
+File "game/Scripts/yulia_room.rpy", line 44: Line with id yulia_room_first_4e4cc31e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:44
+
+File "game/Scripts/yulia_room.rpy", line 46: Line with id yulia_room_first_93cb09c7 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:46
+
+File "game/Scripts/yulia_room.rpy", line 48: Line with id yulia_room_first_15e273e4 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:48
+
+File "game/Scripts/yulia_room.rpy", line 50: Line with id yulia_room_first_85225860 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:50
+
+File "game/Scripts/yulia_room.rpy", line 52: Line with id yulia_room_first_c8565026 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:52
+
+File "game/Scripts/yulia_room.rpy", line 54: Line with id yulia_room_first_7fb26f01 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:54
+
+File "game/Scripts/yulia_room.rpy", line 56: Line with id yulia_room_first_61a96cfe appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:56
+
+File "game/Scripts/yulia_room.rpy", line 58: Line with id yulia_room_first_eafcd80b appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:58
+
+File "game/Scripts/yulia_room.rpy", line 60: Line with id yulia_room_first_a48e711e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:60
+
+File "game/Scripts/yulia_room.rpy", line 62: Line with id yulia_room_first_91f73928 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:62
+
+File "game/Scripts/yulia_room.rpy", line 64: Line with id yulia_room_first_a9d6731e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:64
+
+File "game/Scripts/yulia_room.rpy", line 66: Line with id yulia_room_first_35ef3fb3 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:66
+
+File "game/Scripts/yulia_room.rpy", line 68: Line with id yulia_room_first_a712eeda appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:68
+
+File "game/Scripts/yulia_room.rpy", line 70: Line with id yulia_room_first_61a1a56a appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:70
+
+File "game/Scripts/yulia_room.rpy", line 72: Line with id yulia_room_first_dc7de0a9 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:72
+
+File "game/Scripts/yulia_room.rpy", line 74: Line with id yulia_room_first_40238867 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:74
+
+File "game/Scripts/yulia_room.rpy", line 76: Line with id yulia_room_first_6e3c3c86 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:76
+
+File "game/Scripts/yulia_room.rpy", line 88: Line with id yulia_room_second_c4d75700 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:88
+
+File "game/Scripts/yulia_room.rpy", line 90: Line with id yulia_room_second_39c3345a appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:90
+
+File "game/Scripts/yulia_room.rpy", line 92: Line with id yulia_room_second_e45497ba appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:92
+
+File "game/Scripts/yulia_room.rpy", line 94: Line with id yulia_room_second_3820771a appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:94
+
+File "game/Scripts/yulia_room.rpy", line 96: Line with id yulia_room_second_4da0f2e5 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:96
+
+File "game/Scripts/yulia_room.rpy", line 98: Line with id yulia_room_second_01772ac8 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:98
+
+File "game/Scripts/yulia_room.rpy", line 100: Line with id yulia_room_second_47c62f61 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:100
+
+File "game/Scripts/yulia_room.rpy", line 102: Line with id yulia_room_second_aee6170a appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:102
+
+File "game/Scripts/yulia_room.rpy", line 104: Line with id yulia_room_second_f3f33dfa appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:104
+
+File "game/Scripts/yulia_room.rpy", line 106: Line with id yulia_room_second_d3af3e5f appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:106
+
+File "game/Scripts/yulia_room.rpy", line 108: Line with id yulia_room_second_53d618e5 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:108
+
+File "game/Scripts/yulia_room.rpy", line 110: Line with id yulia_room_second_7165355e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:110
+
+File "game/Scripts/yulia_room.rpy", line 112: Line with id yulia_room_second_c5ba1c1a appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:112
+
+File "game/Scripts/yulia_room.rpy", line 114: Line with id yulia_room_second_3af26d4e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:114
+
+File "game/Scripts/yulia_room.rpy", line 116: Line with id yulia_room_second_234229c5 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:116
+
+File "game/Scripts/yulia_room.rpy", line 123: Line with id yulia_room_second_269a668b appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:123
+
+File "game/Scripts/yulia_room.rpy", line 125: Line with id yulia_room_second_d771010e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:125
+
+File "game/Scripts/yulia_room.rpy", line 127: Line with id yulia_room_second_9b809f4c appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:127
+
+File "game/Scripts/yulia_room.rpy", line 129: Line with id yulia_room_second_176f2cbc appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:129
+
+File "game/Scripts/yulia_room.rpy", line 131: Line with id yulia_room_second_ed68878a appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:131
+
+File "game/Scripts/yulia_room.rpy", line 133: Line with id yulia_room_second_3f1c4513 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:133
+
+File "game/Scripts/yulia_room.rpy", line 135: Line with id yulia_room_second_7201a40e appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:135
+
+File "game/Scripts/yulia_room.rpy", line 137: Line with id yulia_room_second_9a07eae5 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:137
+
+File "game/Scripts/yulia_room.rpy", line 139: Line with id yulia_room_second_98e6c1f0 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:139
+
+File "game/Scripts/yulia_room.rpy", line 141: Line with id yulia_room_second_9696bac5 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:141
+
+File "game/Scripts/yulia_room.rpy", line 143: Line with id yulia_room_second_76cf4244 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:143
+
+File "game/Scripts/yulia_room.rpy", line 145: Line with id yulia_room_second_54dfa975 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:145
+
+File "game/Scripts/yulia_room.rpy", line 149: Line with id yulia_room_second_dc7ed3d4 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:149
+
+File "game/Scripts/yulia_room.rpy", line 151: Line with id yulia_room_second_64353328 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:151
+
+File "game/Scripts/yulia_room.rpy", line 153: Line with id yulia_room_second_9a51a0bd appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:153
+
+File "game/Scripts/yulia_room.rpy", line 155: Line with id yulia_room_second_647bae8d appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:155
+
+File "game/Scripts/yulia_room.rpy", line 157: Line with id yulia_room_second_af42d7b4 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:157
+
+File "game/Scripts/yulia_room.rpy", line 159: Line with id yulia_room_second_11a6d020 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:159
+
+File "game/Scripts/yulia_room.rpy", line 161: Line with id yulia_room_second_3c44c8ed appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:161
+
+File "game/Scripts/yulia_room.rpy", line 163: Line with id yulia_room_second_1e7ed11f appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:163
+
+File "game/Scripts/yulia_room.rpy", line 167: Line with id yulia_room_second_0efb59d2 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:167
+
+File "game/Scripts/yulia_room.rpy", line 169: Line with id yulia_room_second_5373e8af appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:169
+
+File "game/Scripts/yulia_room.rpy", line 171: Line with id yulia_room_second_caba61d0 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:171
+
+File "game/Scripts/yulia_room.rpy", line 173: Line with id yulia_room_second_8e4fa33c appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:173
+
+File "game/Scripts/yulia_room.rpy", line 175: Line with id yulia_room_second_3548040c appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:175
+
+File "game/Scripts/yulia_room.rpy", line 177: Line with id yulia_room_second_517ab449 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:177
+
+File "game/Scripts/yulia_room.rpy", line 179: Line with id yulia_room_second_1f5dc2a3 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:179
+
+File "game/Scripts/yulia_room.rpy", line 185: Line with id yulia_room_second_24f1f1af appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:185
+
+File "game/Scripts/yulia_room.rpy", line 187: Line with id yulia_room_second_5b0b1a93 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:187
+
+File "game/Scripts/yulia_room.rpy", line 189: Line with id yulia_room_second_39e29e57 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:189
+
+File "game/Scripts/yulia_room.rpy", line 191: Line with id yulia_room_second_426b07db appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:191
+
+File "game/Scripts/yulia_room.rpy", line 193: Line with id yulia_room_second_dc22b0df appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:193
+
+File "game/Scripts/yulia_room.rpy", line 195: Line with id yulia_room_second_46c9c121 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:195
+
+File "game/Scripts/yulia_room.rpy", line 197: Line with id yulia_room_second_648cd7bb appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:197
+
+File "game/Scripts/yulia_room.rpy", line 199: Line with id yulia_room_second_cba62aab appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:199
+
+File "game/Scripts/yulia_room.rpy", line 203: Line with id yulia_room_second_aba77323 appears twice. The other line is game/Scripts/Prologue/yulia_room.rpy:203
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Thu Apr 18 17:39:13 2024
+Thu Apr 25 11:36:08 2024

@@ -138,7 +138,21 @@ label night_city_first:
 
     scene night_city with dissolve 
 
-    boss "Поехали ко мне!"
+    boss "Поехали ко мне?!"
+
+    "Согласиться ли мне? Или оставить нашу встречу незапятнанной грязным животным сексом? Оставить прекрасное мгновение этого летного вечера?"
+
+    menu:
+        "Поехать к Эдуарду Семеновичу":
+            $is_having_sex = True
+            jump is_having_sex
+        "Отказаться":
+            $is_having_sex = False
+            jump is_no_having_sex
+
+    return
+
+label is_having_sex:
 
     me "Да. Да. Я говорю - да. Я всегда буду говорить - да!"
 
@@ -151,5 +165,23 @@ label night_city_first:
     stop music fadeout 1.0
 
     jump boss_room_line
+
+    return
+
+label is_no_having_sex:
+
+    me "Извини, но лучше я пойду домой. Не хочу нарушать чарующую гармонию этого вечера."
+
+    "Он поджал губы. Я с дрожащим сердцем ждала, что он накинется на меня с обвинениями, начнет уговаривать. Но он лишь улыбнулся, кивнул и поцеловал меня в щеку."
+
+    boss "Ничего страшного. Спасибо тебе за прогулку. Увидимся!"
+
+    hide Boss with dissolve 
+
+    "Правильно ли я поступила?"
+
+    "..."
+
+    jump red_room_third
 
     return

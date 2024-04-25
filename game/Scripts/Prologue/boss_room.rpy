@@ -98,6 +98,6 @@ label boss_room_line:
 
     "В меня. Теперь уж точно."
 
-    jump third_day
+    jump red_room_third
 
     return
