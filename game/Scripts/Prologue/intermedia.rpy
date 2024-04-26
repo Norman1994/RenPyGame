@@ -166,4 +166,6 @@ label intermedia:
 
     glasha "Я не могла ничего упустить... Не могла..."
 
+    jump crab_base
+
     return
