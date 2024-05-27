@@ -18,6 +18,6 @@ label first_chapter:
 
     "Сияние мертвого сердца."
 
-    jump red_room_first
+    jump hub_first_day
 
     return
