@@ -1,6 +1,6 @@
 ﻿label start:
 
-    jump first_day
+    jump prologue
     #jump crab_base
 
     return

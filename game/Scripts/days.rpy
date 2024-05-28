@@ -1,4 +1,4 @@
-label first_day:
+label prologue:
 
     scene contents
 
