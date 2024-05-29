@@ -154,6 +154,8 @@ label glasha_escapes:
 
     jojo "Ура! Даю слово, вам понравится! Там будет столько важных гостей!"
 
+    jump mansion_first_chapter
+
     return
 
 label glasha_staying:
@@ -183,5 +185,7 @@ label glasha_staying:
     jojo "Конечно!"
 
     me "И чего я ожидала?"
+
+    jump mansion_first_chapter
 
     return

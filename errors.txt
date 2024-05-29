@@ -2,9 +2,21 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/Prologue/crab_base.rpy", line 100: end of line expected.
-    jump first_chapter with dissolve
-                       ^
+File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 41: expected statement.
+    glasha_name = "Вингира Топоровна"
+                ^
+
+File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 43: expected statement.
+    glasha_name = "Альбина Кексова"
+                ^
+
+File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 45: expected statement.
+    glasha_name = "Чебуреня Начинковна"
+                ^
+
+File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 47: expected statement.
+    glasha_name = "Стульина Ножкова"
+                ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Sat Apr 27 15:36:50 2024
+Wed May 29 14:08:09 2024

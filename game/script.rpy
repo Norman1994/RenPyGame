@@ -1,6 +1,6 @@
 ﻿label start:
 
-    jump prologue
+    jump mansion_first_chapter
     #jump crab_base
 
     return

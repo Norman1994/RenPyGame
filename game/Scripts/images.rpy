@@ -22,6 +22,8 @@ image hub = "images/Backgrounds/hub.jpg"
 image glasha_monitor = "images/Backgrounds/glasha_monitor.jpg"
 image cloth_shop = "images/Backgrounds/cloth_shop.png"
 image glasha_reflection = "images/Backgrounds/glasha_reflection.png"
+image mansion = "images/Backgrounds/mansion.png"
+image grand_hall = "images/Backgrounds/grand_hall.png"
 #Персонажи
 image Boss = "images/Characters/Boss.png"
 image Yulia = "images/Characters/Julia.png"
