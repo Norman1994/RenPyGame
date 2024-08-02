@@ -1,26 +1,28 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 152, in script
-    $radolev_scores.append += 1
-  File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 152, in <module>
-    $radolev_scores.append += 1
-AttributeError: 'int' object has no attribute 'append'
+  File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 241, in script
+    if radolev_scores 10 < 14:
+SyntaxError: invalid syntax (mansion_first_chapter.rpy, line 241)
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 152, in script
-    $radolev_scores.append += 1
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 823, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1178, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 152, in <module>
-    $radolev_scores.append += 1
-AttributeError: 'int' object has no attribute 'append'
+  File "game/Scripts/first_chapter/mansion_first_chapter.rpy", line 241, in script
+    if radolev_scores 10 < 14:
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/ast.py", line 1842, in execute
+    if renpy.python.py_eval(condition):
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1207, in py_eval
+    code = py_compile(code, 'eval')
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1144, in py_compile
+    raise e
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1081, in py_compile
+    raise orig_e
+  File "/home/dmitrii/renpy-8.2.1-sdk/renpy/python.py", line 1073, in py_compile
+    tree = compile(source, filename, py_mode, ast.PyCF_ONLY_AST | flags, 1)
+SyntaxError: invalid syntax (mansion_first_chapter.rpy, line 241)
 
 Linux-5.15.0-71-generic-x86_64-with-glibc2.35 x86_64
 Ren'Py 8.2.1.24030407
 GlashaTest 1.0
-Thu May 30 11:46:24 2024
+Fri Aug  2 16:45:55 2024
